@@ -1,0 +1,1082 @@
+{
+    "Jul 2014": [
+        "VSTIND.NS",
+        "TCS.NS",
+        "ATUL.NS",
+        "RECLTD.NS",
+        "HAVELLS.NS",
+        "ONGC.NS"
+    ],
+    "Aug 2014": [
+        "KKCL.NS",
+        "AJANTPHARM.NS",
+        "RECLTD.NS",
+        "HAVELLS.NS",
+        "VSTIND.NS",
+        "WIPRO.NS"
+    ],
+    "Sep 2014": [
+        "KAJARIACER.NS",
+        "ADANIPORTS.NS",
+        "AJANTPHARM.NS",
+        "ONGC.NS",
+        "VSTIND.NS",
+        "TCS.NS"
+    ],
+    "Oct 2014": [
+        "AJANTPHARM.NS",
+        "ASTRAL.NS",
+        "KKCL.NS",
+        "VSTIND.NS",
+        "ECLERX.NS",
+        "HAVELLS.NS"
+    ],
+    "Nov 2014": [
+        "ZENSARTECH.NS",
+        "BALKRISIND.NS",
+        "ASTRAL.NS",
+        "VSTIND.NS",
+        "KKCL.NS",
+        "ONGC.NS"
+    ],
+    "Dec 2014": [
+        "HAVELLS.NS",
+        "AJANTPHARM.NS",
+        "ASTRAL.NS",
+        "KAJARIACER.NS",
+        "VSTIND.NS",
+        "WIPRO.NS"
+    ],
+    "Jan 2015": [
+        "AJANTPHARM.NS",
+        "RATNAMANI.NS",
+        "VSTIND.NS",
+        "ASTRAL.NS",
+        "ZENSARTECH.NS",
+        "BALKRISIND.NS"
+    ],
+    "Feb 2015": [
+        "ASTRAL.NS",
+        "AJANTPHARM.NS",
+        "ZENSARTECH.NS",
+        "KKCL.NS",
+        "VSTIND.NS",
+        "BALKRISIND.NS"
+    ],
+    "Mar 2015": [
+        "VSTIND.NS",
+        "AJANTPHARM.NS",
+        "ASTRAL.NS",
+        "TORNTPHARM.NS",
+        "BERGEPAINT.NS",
+        "KKCL.NS"
+    ],
+    "Apr 2015": [
+        "ASTRAL.NS",
+        "ATUL.NS",
+        "LICHSGFIN.NS",
+        "VSTIND.NS",
+        "WIPRO.NS",
+        "BERGEPAINT.NS"
+    ],
+    "May 2015": [
+        "KKCL.NS",
+        "ADANIPORTS.NS",
+        "AJANTPHARM.NS",
+        "VSTIND.NS",
+        "BERGEPAINT.NS",
+        "KAJARIACER.NS"
+    ],
+    "Jun 2015": [
+        "ZENSARTECH.NS",
+        "KKCL.NS",
+        "VSTIND.NS",
+        "HINDUNILVR.NS",
+        "ASTRAL.NS",
+        "JUBLFOOD.NS"
+    ],
+    "Jul 2015": [
+        "BAJFINANCE.NS",
+        "BRITANNIA.NS",
+        "HINDUNILVR.NS",
+        "LAOPALA.NS",
+        "KAJARIACER.NS",
+        "LICHSGFIN.NS"
+    ],
+    "Aug 2015": [
+        "BAJFINANCE.NS",
+        "MUNJALSHOW.NS",
+        "LICHSGFIN.NS",
+        "WIPRO.NS",
+        "VSTIND.NS",
+        "NAVNETEDUL.NS"
+    ],
+    "Sep 2015": [
+        "VSTIND.NS",
+        "BAJFINANCE.NS",
+        "TCS.NS",
+        "LICHSGFIN.NS",
+        "MARICO.NS",
+        "JUBLFOOD.NS"
+    ],
+    "Oct 2015": [
+        "VSTIND.NS",
+        "RATNAMANI.NS",
+        "BRITANNIA.NS",
+        "BAJFINANCE.NS",
+        "KAJARIACER.NS",
+        "LICHSGFIN.NS"
+    ],
+    "Nov 2015": [
+        "BAJFINANCE.NS",
+        "BRITANNIA.NS",
+        "ZENSARTECH.NS",
+        "IGL.NS",
+        "KAJARIACER.NS",
+        "VSTIND.NS"
+    ],
+    "Dec 2015": [
+        "ZENSARTECH.NS",
+        "BAJFINANCE.NS",
+        "KAJARIACER.NS",
+        "BRITANNIA.NS",
+        "VSTIND.NS",
+        "WIPRO.NS"
+    ],
+    "Jan 2016": [
+        "VSTIND.NS",
+        "ZENSARTECH.NS",
+        "BAJFINANCE.NS",
+        "KAJARIACER.NS",
+        "HINDUNILVR.NS",
+        "BALKRISIND.NS"
+    ],
+    "Feb 2016": [
+        "BAJFINANCE.NS",
+        "BRITANNIA.NS",
+        "KAJARIACER.NS",
+        "VSTIND.NS",
+        "BALKRISIND.NS",
+        "TCS.NS"
+    ],
+    "Mar 2016": [
+        "VSTIND.NS",
+        "BAJFINANCE.NS",
+        "BRITANNIA.NS",
+        "TORNTPHARM.NS",
+        "ZENSARTECH.NS",
+        "KAJARIACER.NS"
+    ],
+    "Apr 2016": [
+        "VSTIND.NS",
+        "TIDEWATER.NS",
+        "BAJFINANCE.NS",
+        "TVSSRICHAK.NS",
+        "ZENSARTECH.NS",
+        "KAJARIACER.NS"
+    ],
+    "May 2016": [
+        "TIDEWATER.NS",
+        "BAJFINANCE.NS",
+        "KAJARIACER.NS",
+        "VSTIND.NS",
+        "ZENSARTECH.NS",
+        "TCS.NS"
+    ],
+    "Jun 2016": [
+        "VSTIND.NS",
+        "BAJFINANCE.NS",
+        "TIDEWATER.NS",
+        "ZENSARTECH.NS",
+        "VGUARD.NS",
+        "TVSSRICHAK.NS"
+    ],
+    "Jul 2016": [
+        "VSTIND.NS",
+        "KAJARIACER.NS",
+        "TIDEWATER.NS",
+        "BAJFINANCE.NS",
+        "AARTIIND.NS",
+        "TCS.NS"
+    ],
+    "Aug 2016": [
+        "VSTIND.NS",
+        "BAJFINANCE.NS",
+        "HINDZINC.NS",
+        "AARTIIND.NS",
+        "TIDEWATER.NS",
+        "AVANTIFEED.NS"
+    ],
+    "Sep 2016": [
+        "VSTIND.NS",
+        "BAJFINANCE.NS",
+        "KAJARIACER.NS",
+        "VGUARD.NS",
+        "AARTIIND.NS",
+        "TIDEWATER.NS"
+    ],
+    "Oct 2016": [
+        "VSTIND.NS",
+        "TIDEWATER.NS",
+        "BAJFINANCE.NS",
+        "KAJARIACER.NS",
+        "ATUL.NS",
+        "ZENSARTECH.NS"
+    ],
+    "Nov 2016": [
+        "WHIRLPOOL.NS",
+        "BERGEPAINT.NS",
+        "HAVELLS.NS",
+        "AARTIIND.NS",
+        "CENTURYPLY.NS",
+        "AJANTPHARM.NS"
+    ],
+    "Dec 2016": [
+        "VSTIND.NS",
+        "VAKRANGEE.NS",
+        "TIDEWATER.NS",
+        "VINATIORGA.NS",
+        "BAJFINANCE.NS",
+        "BALKRISIND.NS"
+    ],
+    "Jan 2017": [
+        "VSTIND.NS",
+        "BALKRISIND.NS",
+        "BAJFINANCE.NS",
+        "AVANTIFEED.NS",
+        "VINATIORGA.NS",
+        "AARTIIND.NS"
+    ],
+    "Feb 2017": [
+        "VSTIND.NS",
+        "HINDZINC.NS",
+        "BALKRISIND.NS",
+        "AVANTIFEED.NS",
+        "RECLTD.NS",
+        "BAJFINANCE.NS"
+    ],
+    "Mar 2017": [
+        "VSTIND.NS",
+        "AVANTIFEED.NS",
+        "BAJFINANCE.NS",
+        "AARTIIND.NS",
+        "HINDZINC.NS",
+        "TCS.NS"
+    ],
+    "Apr 2017": [
+        "VSTIND.NS",
+        "RECLTD.NS",
+        "AVANTIFEED.NS",
+        "HINDZINC.NS",
+        "VINATIORGA.NS",
+        "BAJFINANCE.NS"
+    ],
+    "May 2017": [
+        "VSTIND.NS",
+        "AVANTIFEED.NS",
+        "WHIRLPOOL.NS",
+        "BERGEPAINT.NS",
+        "NBCC.NS",
+        "ADANIPORTS.NS"
+    ],
+    "Jun 2017": [
+        "VSTIND.NS",
+        "RECLTD.NS",
+        "VGUARD.NS",
+        "AVANTIFEED.NS",
+        "HINDZINC.NS",
+        "AARTIIND.NS"
+    ],
+    "Jul 2017": [
+        "VSTIND.NS",
+        "AVANTIFEED.NS",
+        "RECLTD.NS",
+        "VINATIORGA.NS",
+        "KPRMILL.NS",
+        "HINDZINC.NS"
+    ],
+    "Aug 2017": [
+        "AVANTIFEED.NS",
+        "IGL.NS",
+        "VINATIORGA.NS",
+        "AARTIIND.NS",
+        "HINDZINC.NS",
+        "NAVNETEDUL.NS"
+    ],
+    "Sep 2017": [
+        "VSTIND.NS",
+        "AVANTIFEED.NS",
+        "VINATIORGA.NS",
+        "BPCL.NS",
+        "NAVNETEDUL.NS",
+        "TIDEWATER.NS"
+    ],
+    "Oct 2017": [
+        "TITAN.NS",
+        "AVANTIFEED.NS",
+        "CERA.NS",
+        "ADANIPORTS.NS",
+        "KPRMILL.NS",
+        "NBCC.NS"
+    ],
+    "Nov 2017": [
+        "AVANTIFEED.NS",
+        "BALKRISIND.NS",
+        "BRITANNIA.NS",
+        "SWARAJENG.NS",
+        "NBCC.NS",
+        "HINDZINC.NS"
+    ],
+    "Dec 2017": [
+        "AVANTIFEED.NS",
+        "IGL.NS",
+        "BRITANNIA.NS",
+        "WIPRO.NS",
+        "NBCC.NS",
+        "VINATIORGA.NS"
+    ],
+    "Jan 2018": [
+        "WIPRO.NS",
+        "AVANTIFEED.NS",
+        "IGL.NS",
+        "BRITANNIA.NS",
+        "VINATIORGA.NS",
+        "AARTIIND.NS"
+    ],
+    "Feb 2018": [
+        "AVANTIFEED.NS",
+        "BALKRISIND.NS",
+        "GREENPLY.NS",
+        "BRITANNIA.NS",
+        "SWARAJENG.NS",
+        "KPRMILL.NS"
+    ],
+    "Mar 2018": [
+        "AVANTIFEED.NS",
+        "PCJEWELLER.NS",
+        "BRITANNIA.NS",
+        "AARTIIND.NS",
+        "CHOLAFIN.NS",
+        "HINDZINC.NS"
+    ],
+    "Apr 2018": [
+        "BALKRISIND.NS",
+        "AVANTIFEED.NS",
+        "PCJEWELLER.NS",
+        "TCS.NS",
+        "VGUARD.NS",
+        "CERA.NS"
+    ],
+    "May 2018": [
+        "TCS.NS",
+        "BALKRISIND.NS",
+        "AVANTIFEED.NS",
+        "VGUARD.NS",
+        "WHIRLPOOL.NS",
+        "ADANIPORTS.NS"
+    ],
+    "Jun 2018": [
+        "BRITANNIA.NS",
+        "HINDUNILVR.NS",
+        "AARTIIND.NS",
+        "TCS.NS",
+        "HINDZINC.NS",
+        "INFY.NS"
+    ],
+    "Jul 2018": [
+        "SONATSOFTW.NS",
+        "INFY.NS",
+        "HINDUNILVR.NS",
+        "TVTODAY.NS",
+        "CHOLAFIN.NS",
+        "AVANTIFEED.NS"
+    ],
+    "Aug 2018": [
+        "CHOLAFIN.NS",
+        "AARTIIND.NS",
+        "SONATSOFTW.NS",
+        "ATUL.NS",
+        "FINCABLES.NS",
+        "HINDZINC.NS"
+    ],
+    "Sep 2018": [
+        "SONATSOFTW.NS",
+        "AARTIIND.NS",
+        "BRITANNIA.NS",
+        "VINATIORGA.NS",
+        "RELAXO.NS",
+        "TATAELXSI.NS"
+    ],
+    "Oct 2018": [
+        "ZENSARTECH.NS",
+        "SONATSOFTW.NS",
+        "TCS.NS",
+        "RELAXO.NS",
+        "VINATIORGA.NS",
+        "BRITANNIA.NS"
+    ],
+    "Nov 2018": [
+        "SONATSOFTW.NS",
+        "BRITANNIA.NS",
+        "RELAXO.NS",
+        "AARTIIND.NS",
+        "TATAELXSI.NS",
+        "HINDZINC.NS"
+    ],
+    "Dec 2018": [
+        "SONATSOFTW.NS",
+        "AARTIIND.NS",
+        "BRITANNIA.NS",
+        "VINATIORGA.NS",
+        "RELAXO.NS",
+        "TATAELXSI.NS"
+    ],
+    "Jan 2019": [
+        "SONATSOFTW.NS",
+        "AARTIIND.NS",
+        "HINDZINC.NS",
+        "TCS.NS",
+        "AKZOINDIA.NS",
+        "CHOLAFIN.NS"
+    ],
+    "Feb 2019": [
+        "AARTIIND.NS",
+        "TCS.NS",
+        "BRITANNIA.NS",
+        "ZENSARTECH.NS",
+        "SONATSOFTW.NS",
+        "HINDZINC.NS"
+    ],
+    "Mar 2019": [
+        "AARTIIND.NS",
+        "BRITANNIA.NS",
+        "HINDUNILVR.NS",
+        "SONATSOFTW.NS",
+        "AUROPHARMA.NS",
+        "HINDZINC.NS"
+    ],
+    "Apr 2019": [
+        "HINDUNILVR.NS",
+        "AUROPHARMA.NS",
+        "TECHM.NS",
+        "BRITANNIA.NS",
+        "RELAXO.NS",
+        "SONATSOFTW.NS"
+    ],
+    "May 2019": [
+        "VSTIND.NS",
+        "AUROPHARMA.NS",
+        "HINDUNILVR.NS",
+        "RELAXO.NS",
+        "BPCL.NS",
+        "SONATSOFTW.NS"
+    ],
+    "Jun 2019": [
+        "VSTIND.NS",
+        "TCS.NS",
+        "KAJARIACER.NS",
+        "HINDUNILVR.NS",
+        "BPCL.NS",
+        "SONATSOFTW.NS"
+    ],
+    "Jul 2019": [
+        "VSTIND.NS",
+        "INFY.NS",
+        "VINATIORGA.NS",
+        "SONATSOFTW.NS",
+        "HINDPETRO.NS",
+        "HINDZINC.NS"
+    ],
+    "Aug 2019": [
+        "WIPRO.NS",
+        "VINATIORGA.NS",
+        "SONATSOFTW.NS",
+        "HINDUNILVR.NS",
+        "HINDPETRO.NS",
+        "AUROPHARMA.NS"
+    ],
+    "Sep 2019": [
+        "GULFOILLUB.NS",
+        "VINATIORGA.NS",
+        "TCS.NS",
+        "HINDPETRO.NS",
+        "BPCL.NS",
+        "SONATSOFTW.NS"
+    ],
+    "Oct 2019": [
+        "BPCL.NS",
+        "VINATIORGA.NS",
+        "HINDUNILVR.NS",
+        "HINDPETRO.NS",
+        "GULFOILLUB.NS",
+        "GARFIBRES.NS"
+    ],
+    "Nov 2019": [
+        "BPCL.NS",
+        "HINDUNILVR.NS",
+        "HINDPETRO.NS",
+        "VINATIORGA.NS",
+        "AVANTIFEED.NS",
+        "KPRMILL.NS"
+    ],
+    "Dec 2019": [
+        "BPCL.NS",
+        "AVANTIFEED.NS",
+        "VINATIORGA.NS",
+        "TCS.NS",
+        "HINDPETRO.NS",
+        "KAJARIACER.NS"
+    ],
+    "Jan 2020": [
+        "VSTIND.NS",
+        "BPCL.NS",
+        "INFY.NS",
+        "AVANTIFEED.NS",
+        "VINATIORGA.NS",
+        "AARTIIND.NS"
+    ],
+    "Feb 2020": [
+        "AVANTIFEED.NS",
+        "VINATIORGA.NS",
+        "CHOLAFIN.NS",
+        "SUDARSCHEM.NS",
+        "KPRMILL.NS",
+        "AARTIIND.NS"
+    ],
+    "Mar 2020": [
+        "VSTIND.NS",
+        "AARTIIND.NS",
+        "SUDARSCHEM.NS",
+        "AVANTIFEED.NS",
+        "BPCL.NS",
+        "CHOLAFIN.NS"
+    ],
+    "Apr 2020": [
+        "SUDARSCHEM.NS",
+        "VSTIND.NS",
+        "BPCL.NS",
+        "TCS.NS",
+        "AARTIIND.NS",
+        "BALKRISIND.NS"
+    ],
+    "May 2020": [
+        "AARTIIND.NS",
+        "SUDARSCHEM.NS",
+        "VSTIND.NS",
+        "AVANTIFEED.NS",
+        "INFY.NS",
+        "BPCL.NS"
+    ],
+    "Jun 2020": [
+        "BALKRISIND.NS",
+        "VSTIND.NS",
+        "GARFIBRES.NS",
+        "SUDARSCHEM.NS",
+        "AARTIIND.NS",
+        "AVANTIFEED.NS"
+    ],
+    "Jul 2020": [
+        "VSTIND.NS",
+        "ALKYLAMINE.NS",
+        "AVANTIFEED.NS",
+        "BHARATRAS.NS",
+        "SUDARSCHEM.NS",
+        "TCS.NS"
+    ],
+    "Aug 2020": [
+        "ALKYLAMINE.NS",
+        "BHARATRAS.NS",
+        "TATAELXSI.NS",
+        "GARFIBRES.NS",
+        "TTKPRESTIG.NS",
+        "SUDARSCHEM.NS"
+    ],
+    "Sep 2020": [
+        "ALKYLAMINE.NS",
+        "BHARATRAS.NS",
+        "VSTIND.NS",
+        "AARTIIND.NS",
+        "INFY.NS",
+        "KNRCON.NS"
+    ],
+    "Oct 2020": [
+        "ALKYLAMINE.NS",
+        "BHARATRAS.NS",
+        "HCLTECH.NS",
+        "TCS.NS",
+        "AARTIIND.NS",
+        "CAPLIPOINT.NS"
+    ],
+    "Nov 2020": [
+        "ALKYLAMINE.NS",
+        "BHARATRAS.NS",
+        "HCLTECH.NS",
+        "HINDZINC.NS",
+        "AARTIIND.NS",
+        "SUDARSCHEM.NS"
+    ],
+    "Dec 2020": [
+        "AARTIDRUGS.NS",
+        "ALKYLAMINE.NS",
+        "TCS.NS",
+        "BHARATRAS.NS",
+        "AARTIIND.NS",
+        "CANFINHOME.NS"
+    ],
+    "Jan 2021": [
+        "AARTIDRUGS.NS",
+        "ALKYLAMINE.NS",
+        "VSTIND.NS",
+        "AARTIIND.NS",
+        "BHARATRAS.NS",
+        "STLTECH.NS"
+    ],
+    "Feb 2021": [
+        "ALKYLAMINE.NS",
+        "TCS.NS",
+        "BEL.NS",
+        "BHARATRAS.NS",
+        "EICHERMOT.NS",
+        "CENTURYPLY.NS"
+    ],
+    "Mar 2021": [
+        "AARTIDRUGS.NS",
+        "ALKYLAMINE.NS",
+        "HINDZINC.NS",
+        "BEL.NS",
+        "HCLTECH.NS",
+        "TCS.NS"
+    ],
+    "Apr 2021": [
+        "AARTIDRUGS.NS",
+        "ALKYLAMINE.NS",
+        "TCS.NS",
+        "VSTIND.NS",
+        "KPRMILL.NS",
+        "DCMSHRIRAM.NS"
+    ],
+    "May 2021": [
+        "AARTIDRUGS.NS",
+        "DCMSHRIRAM.NS",
+        "ALKYLAMINE.NS",
+        "INFY.NS",
+        "SONATSOFTW.NS",
+        "VSTIND.NS"
+    ],
+    "Jun 2021": [
+        "STLTECH.NS",
+        "KNRCON.NS",
+        "VSTIND.NS",
+        "HINDZINC.NS",
+        "TTKPRESTIG.NS",
+        "BHARATRAS.NS"
+    ],
+    "Jul 2021": [
+        "ALKYLAMINE.NS",
+        "VSTIND.NS",
+        "POLYPLEX.NS",
+        "DCMSHRIRAM.NS",
+        "NMDC.NS",
+        "AARTIDRUGS.NS"
+    ],
+    "Aug 2021": [
+        "DCMSHRIRAM.NS",
+        "POLYPLEX.NS",
+        "KNRCON.NS",
+        "STLTECH.NS",
+        "NMDC.NS",
+        "CHAMBLFERT.NS"
+    ],
+    "Sep 2021": [
+        "DCMSHRIRAM.NS",
+        "ALKYLAMINE.NS",
+        "KNRCON.NS",
+        "INFY.NS",
+        "POLYPLEX.NS",
+        "CHAMBLFERT.NS"
+    ],
+    "Oct 2021": [
+        "KPRMILL.NS",
+        "ALKYLAMINE.NS",
+        "KEI.NS",
+        "WIPRO.NS",
+        "POLYPLEX.NS",
+        "KNRCON.NS"
+    ],
+    "Nov 2021": [
+        "SONATSOFTW.NS",
+        "KPRMILL.NS",
+        "ALKYLAMINE.NS",
+        "BEL.NS",
+        "CHAMBLFERT.NS",
+        "KEI.NS"
+    ],
+    "Dec 2021": [
+        "KPRMILL.NS",
+        "POLYPLEX.NS",
+        "CHAMBLFERT.NS",
+        "TTKPRESTIG.NS",
+        "KNRCON.NS",
+        "BALRAMCHIN.NS"
+    ],
+    "Jan 2022": [
+        "KPRMILL.NS",
+        "POLYPLEX.NS",
+        "SONATSOFTW.NS",
+        "KEI.NS",
+        "ALKYLAMINE.NS",
+        "KNRCON.NS"
+    ],
+    "Feb 2022": [
+        "KPRMILL.NS",
+        "POLYPLEX.NS",
+        "DCMSHRIRAM.NS",
+        "KEI.NS",
+        "SONATSOFTW.NS",
+        "CHAMBLFERT.NS"
+    ],
+    "Mar 2022": [
+        "KPRMILL.NS",
+        "BALRAMCHIN.NS",
+        "RHIM.NS",
+        "TITAN.NS",
+        "CHAMBLFERT.NS",
+        "GRINDWELL.NS"
+    ],
+    "Apr 2022": [
+        "BALRAMCHIN.NS",
+        "POLYPLEX.NS",
+        "DCMSHRIRAM.NS",
+        "KEI.NS",
+        "CHAMBLFERT.NS",
+        "TECHM.NS"
+    ],
+    "May 2022": [
+        "ASAL.NS",
+        "POLYPLEX.NS",
+        "KEI.NS",
+        "CHAMBLFERT.NS",
+        "TCS.NS",
+        "BIRLAMONEY.NS"
+    ],
+    "Jun 2022": [
+        "POLYPLEX.NS",
+        "RHIM.NS",
+        "KEI.NS",
+        "RADICO.NS",
+        "CHAMBLFERT.NS",
+        "BIRLAMONEY.NS"
+    ],
+    "Jul 2022": [
+        "TI.NS",
+        "EKC.NS",
+        "GHCL.NS",
+        "KEI.NS",
+        "POLYPLEX.NS",
+        "BEL.NS"
+    ],
+    "Aug 2022": [
+        "TI.NS",
+        "GHCL.NS",
+        "EKC.NS",
+        "POLYPLEX.NS",
+        "KEI.NS",
+        "BEL.NS"
+    ],
+    "Sep 2022": [
+        "ADANIENT.NS",
+        "PITTIENG.NS",
+        "GRINDWELL.NS",
+        "SOLARINDS.NS",
+        "KEI.NS",
+        "PAGEIND.NS"
+    ],
+    "Oct 2022": [
+        "PITTIENG.NS",
+        "BEL.NS",
+        "DWARKESH.NS",
+        "POLYPLEX.NS",
+        "GHCL.NS",
+        "CENTEXT.NS"
+    ],
+    "Nov 2022": [
+        "ASAL.NS",
+        "GHCL.NS",
+        "DWARKESH.NS",
+        "SALASAR.NS",
+        "CENTEXT.NS",
+        "GOKUL.NS"
+    ],
+    "Dec 2022": [
+        "BEL.NS",
+        "DWARKESH.NS",
+        "KEI.NS",
+        "SALASAR.NS",
+        "REDINGTON.NS",
+        "NMDC.NS"
+    ],
+    "Jan 2023": [
+        "FACT.NS",
+        "SALASAR.NS",
+        "BEL.NS",
+        "KEI.NS",
+        "DWARKESH.NS",
+        "UTTAMSUGAR.NS"
+    ],
+    "Feb 2023": [
+        "FACT.NS",
+        "HINDUNILVR.NS",
+        "KEI.NS",
+        "ACE.NS",
+        "HINDZINC.NS",
+        "GNA.NS"
+    ],
+    "Mar 2023": [
+        "FACT.NS",
+        "SALASAR.NS",
+        "GNA.NS",
+        "KEI.NS",
+        "HISARMETAL.NS",
+        "BEL.NS"
+    ],
+    "Apr 2023": [
+        "GNA.NS",
+        "HAL.NS",
+        "GOKULAGRO.NS",
+        "SONATSOFTW.NS",
+        "KEI.NS",
+        "HITECH.NS"
+    ],
+    "May 2023": [
+        "MOLDTECH.NS",
+        "TRITURBINE.NS",
+        "CUMMINSIND.NS",
+        "SONATSOFTW.NS",
+        "HGINFRA.NS",
+        "RADICO.NS"
+    ],
+    "Jun 2023": [
+        "SONATSOFTW.NS",
+        "FACT.NS",
+        "HGINFRA.NS",
+        "BEL.NS",
+        "CANFINHOME.NS",
+        "HITECH.NS"
+    ],
+    "Jul 2023": [
+        "FACT.NS",
+        "REFEX.NS",
+        "UGARSUGAR.NS",
+        "HAL.NS",
+        "BANCOINDIA.NS",
+        "DLINKINDIA.NS"
+    ],
+    "Aug 2023": [
+        "FACT.NS",
+        "REFEX.NS",
+        "UGARSUGAR.NS",
+        "BANCOINDIA.NS",
+        "SONATSOFTW.NS",
+        "GOKULAGRO.NS"
+    ],
+    "Sep 2023": [
+        "FACT.NS",
+        "REFEX.NS",
+        "BANCOINDIA.NS",
+        "UGARSUGAR.NS",
+        "GPIL.NS",
+        "HAL.NS"
+    ],
+    "Oct 2023": [
+        "PERSISTENT.NS",
+        "REFEX.NS",
+        "BANCOINDIA.NS",
+        "GODFRYPHLP.NS",
+        "SURYAROSNI.NS",
+        "HAL.NS"
+    ],
+    "Nov 2023": [
+        "FACT.NS",
+        "SURYAROSNI.NS",
+        "PERSISTENT.NS",
+        "HGINFRA.NS",
+        "GRSE.NS",
+        "NMDC.NS"
+    ],
+    "Dec 2023": [
+        "FACT.NS",
+        "BANCOINDIA.NS",
+        "MOLDTECH.NS",
+        "PERSISTENT.NS",
+        "REFEX.NS",
+        "SURYAROSNI.NS"
+    ],
+    "Jan 2024": [
+        "HAL.NS",
+        "PERSISTENT.NS",
+        "FACT.NS",
+        "BAJAJ-AUTO.NS",
+        "GRSE.NS",
+        "GPIL.NS"
+    ],
+    "Feb 2024": [
+        "FACT.NS",
+        "HAL.NS",
+        "PCBL.NS",
+        "PERSISTENT.NS",
+        "SURYAROSNI.NS",
+        "BAJAJ-AUTO.NS"
+    ],
+    "Mar 2024": [
+        "FACT.NS",
+        "BAJAJ-AUTO.NS",
+        "APARINDS.NS",
+        "HAL.NS",
+        "NMDC.NS",
+        "PCBL.NS"
+    ],
+    "Apr 2024": [
+        "FACT.NS",
+        "HAL.NS",
+        "PERSISTENT.NS",
+        "GOKEX.NS",
+        "PCBL.NS",
+        "ECLERX.NS"
+    ],
+    "May 2024": [
+        "HAL.NS",
+        "TI.NS",
+        "CAPLIPOINT.NS",
+        "FACT.NS",
+        "SUPREMEIND.NS",
+        "GRSE.NS"
+    ],
+    "Jun 2024": [
+        "FACT.NS",
+        "HAL.NS",
+        "JBCHEPHARM.NS",
+        "GODFRYPHLP.NS",
+        "NMDC.NS",
+        "TI.NS"
+    ],
+    "Jul 2024": [
+        "NMDC.NS",
+        "GODFRYPHLP.NS",
+        "HAL.NS",
+        "BANCOINDIA.NS",
+        "MSTCLTD.NS",
+        "GRAVITA.NS"
+    ],
+    "Aug 2024": [
+        "FACT.NS",
+        "SHARDAMOTR.NS",
+        "BANCOINDIA.NS",
+        "HAL.NS",
+        "HINDZINC.NS",
+        "MSTCLTD.NS"
+    ],
+    "Sep 2024": [
+        "SHARDAMOTR.NS",
+        "HAL.NS",
+        "BAJAJ-AUTO.NS",
+        "PCBL.NS",
+        "FACT.NS",
+        "MSTCLTD.NS"
+    ],
+    "Oct 2024": [
+        "IIFLSEC.NS",
+        "OFSS.NS",
+        "PCBL.NS",
+        "SHARDAMOTR.NS",
+        "HAL.NS",
+        "TI.NS"
+    ],
+    "Nov 2024": [
+        "IIFLSEC.NS",
+        "HINDZINC.NS",
+        "HAL.NS",
+        "SHARDAMOTR.NS",
+        "BAJAJ-AUTO.NS",
+        "HCLTECH.NS"
+    ],
+    "Dec 2024": [
+        "IIFLSEC.NS",
+        "BANCOINDIA.NS",
+        "HAL.NS",
+        "GRANULES.NS",
+        "MSTCLTD.NS",
+        "SHARDAMOTR.NS"
+    ],
+    "Jan 2025": [
+        "TI.NS",
+        "IIFLSEC.NS",
+        "HGINFRA.NS",
+        "PCBL.NS",
+        "POWERGRID.NS",
+        "GPIL.NS"
+    ],
+    "Feb 2025": [
+        "TI.NS",
+        "MUTHOOTFIN.NS",
+        "HINDZINC.NS",
+        "GRANULES.NS",
+        "HAL.NS",
+        "GHCL.NS"
+    ],
+    "Mar 2025": [
+        "CHAMBLFERT.NS",
+        "PCBL.NS",
+        "HGINFRA.NS",
+        "TI.NS",
+        "SHARDAMOTR.NS",
+        "GRANULES.NS"
+    ],
+    "Apr 2025": [
+        "KSCL.NS",
+        "PCBL.NS",
+        "WELCORP.NS",
+        "GPIL.NS",
+        "TI.NS",
+        "SHARDAMOTR.NS"
+    ],
+    "May 2025": [
+        "PCBL.NS",
+        "TI.NS",
+        "HCLTECH.NS",
+        "CHOLAFIN.NS",
+        "WELCORP.NS",
+        "REDINGTON.NS"
+    ],
+    "Jun 2025": [
+        "PCBL.NS",
+        "TI.NS",
+        "CHAMBLFERT.NS",
+        "HCLTECH.NS",
+        "WELCORP.NS",
+        "ECLERX.NS"
+    ],
+    "Jul 2025": [
+        "WELCORP.NS",
+        "TI.NS",
+        "HCLTECH.NS",
+        "ECLERX.NS",
+        "REDINGTON.NS",
+        "CHOLAFIN.NS"
+    ],
+    "Aug 2025": [
+        "TI.NS",
+        "REFEX.NS",
+        "WELCORP.NS",
+        "ECLERX.NS",
+        "MANAPPURAM.NS",
+        "EICHERMOT.NS"
+    ],
+    "Sep 2025": [
+        "TI.NS",
+        "GPIL.NS",
+        "WELCORP.NS",
+        "REDINGTON.NS",
+        "IMFA.NS",
+        "REFEX.NS"
+    ]
+}

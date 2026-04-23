@@ -1,0 +1,2881 @@
+{
+    "Feb 2014": {
+        "Filter_2_50%": [],
+        "Filter 3": []
+    },
+    "Jan 2014": {
+        "Filter_2_50%": [],
+        "Filter 3": []
+    },
+    "Mar 2014": {
+        "Filter_2_50%": [],
+        "Filter 3": []
+    },
+    "Apr 2014": {
+        "Filter_2_50%": [],
+        "Filter 3": []
+    },
+    "May 2014": {
+        "Filter_2_50%": [],
+        "Filter 3": []
+    },
+    "Jun 2014": {
+        "Filter_2_50%": [],
+        "Filter 3": []
+    },
+    "Jul 2014": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "HAVELLS.NS",
+            "ARVIND.NS",
+            "TCS.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "HAVELLS.NS",
+            "ARVIND.NS",
+            "TCS.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Aug 2014": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "HAVELLS.NS",
+            "BERGEPAINT.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "HAVELLS.NS",
+            "BERGEPAINT.NS"
+        ]
+    },
+    "Sep 2014": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "TTKPRESTIG.NS",
+            "HERITGFOOD.NS",
+            "CHOLAFIN.NS",
+            "AJANTPHARM.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "TTKPRESTIG.NS",
+            "HERITGFOOD.NS",
+            "CHOLAFIN.NS",
+            "AJANTPHARM.NS"
+        ]
+    },
+    "Oct 2014": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "HERITGFOOD.NS",
+            "CHOLAFIN.NS",
+            "HAVELLS.NS",
+            "KAJARIACER.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "HERITGFOOD.NS",
+            "CHOLAFIN.NS",
+            "HAVELLS.NS",
+            "KAJARIACER.NS"
+        ]
+    },
+    "Nov 2014": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "CANFINHOME.NS",
+            "CHOLAFIN.NS",
+            "ASTRAL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "CANFINHOME.NS",
+            "CHOLAFIN.NS",
+            "ASTRAL.NS"
+        ]
+    },
+    "Dec 2014": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "CHOLAFIN.NS",
+            "HAVELLS.NS",
+            "KAJARIACER.NS",
+            "TCS.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "CHOLAFIN.NS",
+            "HAVELLS.NS",
+            "KAJARIACER.NS",
+            "TCS.NS"
+        ]
+    },
+    "Feb 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "ASTRAL.NS",
+            "CANFINHOME.NS",
+            "LT.NS",
+            "WHEELS.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS",
+            "AARTIIND.NS",
+            "BPCL.NS",
+            "ASTRAL.NS",
+            "WHEELS.NS"
+        ]
+    },
+    "Jan 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "ASTRAL.NS",
+            "HAVELLS.NS",
+            "KAJARIACER.NS",
+            "GABRIEL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "GABRIEL.NS",
+            "ASTRAL.NS",
+            "CANFINHOME.NS",
+            "AARTIIND.NS",
+            "KAJARIACER.NS"
+        ]
+    },
+    "Mar 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "ASTRAL.NS",
+            "CANFINHOME.NS",
+            "HAVELLS.NS",
+            "M&M.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS",
+            "AARTIIND.NS",
+            "ASTRAL.NS",
+            "BPCL.NS",
+            "HAVELLS.NS"
+        ]
+    },
+    "May 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "ASTRAL.NS",
+            "CANFINHOME.NS",
+            "LT.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "ASTRAL.NS",
+            "CANFINHOME.NS",
+            "LT.NS"
+        ]
+    },
+    "Jun 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "LT.NS",
+            "LAOPALA.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "LT.NS",
+            "LAOPALA.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Apr 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "RECLTD.NS",
+            "AARTIIND.NS",
+            "ASTRAL.NS",
+            "PFC.NS",
+            "CANFINHOME.NS",
+            "M&M.NS",
+            "HAVELLS.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "ASTRAL.NS",
+            "HAVELLS.NS",
+            "RECLTD.NS"
+        ]
+    },
+    "Jul 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS",
+            "CHOLAFIN.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS",
+            "CHOLAFIN.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Aug 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "KAJARIACER.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "KAJARIACER.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Sep 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "HERITGFOOD.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "HERITGFOOD.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Oct 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "CHOLAFIN.NS",
+            "HERITGFOOD.NS",
+            "KAJARIACER.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "CHOLAFIN.NS",
+            "HERITGFOOD.NS",
+            "KAJARIACER.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Nov 2015": {
+        "Filter_2_50%": [
+            "BPCL.NS",
+            "CANFINHOME.NS",
+            "HERITGFOOD.NS",
+            "VAKRANGEE.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "BPCL.NS",
+            "CANFINHOME.NS",
+            "HERITGFOOD.NS",
+            "VAKRANGEE.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Dec 2015": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS",
+            "VAKRANGEE.NS",
+            "ATUL.NS",
+            "WHEELS.NS",
+            "AJANTPHARM.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS",
+            "VAKRANGEE.NS",
+            "ATUL.NS",
+            "WHEELS.NS",
+            "AJANTPHARM.NS"
+        ]
+    },
+    "Feb 2016": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "CANFINHOME.NS",
+            "ASTRAL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "CANFINHOME.NS",
+            "ASTRAL.NS"
+        ]
+    },
+    "Mar 2016": {
+        "Filter_2_50%": [
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "ARVIND.NS",
+            "CANFINHOME.NS",
+            "LAOPALA.NS",
+            "AJANTPHARM.NS"
+        ],
+        "Filter 3": [
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "ARVIND.NS",
+            "CANFINHOME.NS",
+            "LAOPALA.NS",
+            "AJANTPHARM.NS"
+        ]
+    },
+    "Apr 2016": {
+        "Filter_2_50%": [
+            "AVANTIFEED.NS",
+            "AARTIIND.NS",
+            "ARVIND.NS",
+            "M&M.NS",
+            "CANFINHOME.NS",
+            "HAVELLS.NS"
+        ],
+        "Filter 3": [
+            "AVANTIFEED.NS",
+            "AARTIIND.NS",
+            "ARVIND.NS",
+            "M&M.NS",
+            "CANFINHOME.NS",
+            "HAVELLS.NS"
+        ]
+    },
+    "Jan 2016": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "ASTRAL.NS",
+            "LAOPALA.NS",
+            "AJANTPHARM.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "CANFINHOME.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "AJANTPHARM.NS",
+            "LAOPALA.NS",
+            "ASTRAL.NS"
+        ]
+    },
+    "May 2016": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "ARVIND.NS",
+            "CANFINHOME.NS",
+            "GRANULES.NS",
+            "LAOPALA.NS",
+            "ASTRAL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "GRANULES.NS",
+            "LAOPALA.NS",
+            "BPCL.NS"
+        ]
+    },
+    "Jun 2016": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "JKTYRE.NS",
+            "IRB.NS",
+            "AARTIIND.NS",
+            "ARVIND.NS",
+            "GRANULES.NS",
+            "HAVELLS.NS",
+            "CANFINHOME.NS",
+            "LAOPALA.NS",
+            "ASTRAL.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS",
+            "AARTIIND.NS",
+            "HAVELLS.NS",
+            "GRANULES.NS",
+            "LAOPALA.NS"
+        ]
+    },
+    "Jul 2016": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "JKTYRE.NS",
+            "CHOLAFIN.NS",
+            "KAJARIACER.NS"
+        ],
+        "Filter 3": [
+            "KAJARIACER.NS",
+            "CHOLAFIN.NS",
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS",
+            "AARTIIND.NS",
+            "BPCL.NS"
+        ]
+    },
+    "Sep 2016": {
+        "Filter_2_50%": [
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "AVANTIFEED.NS",
+            "KPRMILL.NS",
+            "CANFINHOME.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "AVANTIFEED.NS",
+            "KPRMILL.NS",
+            "CANFINHOME.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Oct 2016": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "KPRMILL.NS",
+            "CANFINHOME.NS",
+            "MRF.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "KPRMILL.NS",
+            "CANFINHOME.NS",
+            "MRF.NS"
+        ]
+    },
+    "Aug 2016": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "BPCL.NS",
+            "KPRMILL.NS",
+            "EICHERMOT.NS",
+            "CANFINHOME.NS",
+            "CHOLAFIN.NS",
+            "M&M.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "CHOLAFIN.NS",
+            "CANFINHOME.NS",
+            "BPCL.NS",
+            "KPRMILL.NS",
+            "EICHERMOT.NS"
+        ]
+    },
+    "Nov 2016": {
+        "Filter_2_50%": [
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "KPRMILL.NS",
+            "MRF.NS",
+            "CANFINHOME.NS",
+            "KAJARIACER.NS",
+            "LICHSGFIN.NS"
+        ],
+        "Filter 3": [
+            "CANFINHOME.NS",
+            "BPCL.NS",
+            "KAJARIACER.NS",
+            "EICHERMOT.NS",
+            "KPRMILL.NS",
+            "MRF.NS"
+        ]
+    },
+    "Dec 2016": {
+        "Filter_2_50%": [
+            "EICHERMOT.NS",
+            "KPRMILL.NS",
+            "CHOLAFIN.NS",
+            "FINPIPE.NS",
+            "MRF.NS",
+            "CANFINHOME.NS",
+            "CEATLTD.NS",
+            "GREENPLY.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "FINPIPE.NS",
+            "GREENPLY.NS",
+            "CANFINHOME.NS",
+            "KPRMILL.NS",
+            "CHOLAFIN.NS",
+            "ATUL.NS"
+        ]
+    },
+    "Jan 2017": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "AVANTIFEED.NS",
+            "KPRMILL.NS",
+            "BALKRISIND.NS",
+            "CANFINHOME.NS",
+            "FINPIPE.NS",
+            "CEATLTD.NS",
+            "VAKRANGEE.NS",
+            "APARINDS.NS"
+        ],
+        "Filter 3": [
+            "FINPIPE.NS",
+            "BALKRISIND.NS",
+            "VAKRANGEE.NS",
+            "CANFINHOME.NS",
+            "AVANTIFEED.NS",
+            "BAJFINANCE.NS"
+        ]
+    },
+    "Feb 2017": {
+        "Filter_2_50%": [
+            "AVANTIFEED.NS",
+            "KPRMILL.NS",
+            "CANFINHOME.NS",
+            "CEATLTD.NS",
+            "KAJARIACER.NS",
+            "PIDILITIND.NS",
+            "KRBL.NS",
+            "LUPIN.NS",
+            "BERGEPAINT.NS",
+            "HIMATSEIDE.NS"
+        ],
+        "Filter 3": [
+            "CANFINHOME.NS",
+            "KPRMILL.NS",
+            "HIMATSEIDE.NS",
+            "KRBL.NS",
+            "AVANTIFEED.NS",
+            "PIDILITIND.NS"
+        ]
+    },
+    "Mar 2017": {
+        "Filter_2_50%": [
+            "AVANTIFEED.NS",
+            "HINDPETRO.NS",
+            "AARTIIND.NS",
+            "ARVIND.NS",
+            "CANFINHOME.NS",
+            "SONATSOFTW.NS",
+            "FINPIPE.NS",
+            "KAJARIACER.NS",
+            "AUROPHARMA.NS",
+            "MARKSANS.NS",
+            "GRANULES.NS"
+        ],
+        "Filter 3": [
+            "HINDPETRO.NS",
+            "AARTIIND.NS",
+            "FINPIPE.NS",
+            "CANFINHOME.NS",
+            "AVANTIFEED.NS",
+            "ARVIND.NS"
+        ]
+    },
+    "Apr 2017": {
+        "Filter_2_50%": [
+            "AVANTIFEED.NS",
+            "HINDPETRO.NS",
+            "AARTIIND.NS",
+            "ARVIND.NS",
+            "CANFINHOME.NS",
+            "KAJARIACER.NS",
+            "MARKSANS.NS",
+            "AJANTPHARM.NS",
+            "FINCABLES.NS"
+        ],
+        "Filter 3": [
+            "HINDPETRO.NS",
+            "FINCABLES.NS",
+            "CANFINHOME.NS",
+            "AVANTIFEED.NS",
+            "ARVIND.NS",
+            "AJANTPHARM.NS"
+        ]
+    },
+    "May 2017": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "HINDPETRO.NS",
+            "AARTIIND.NS",
+            "NBCC.NS",
+            "CANFINHOME.NS",
+            "CEATLTD.NS",
+            "FINPIPE.NS",
+            "ASTRAL.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "HINDPETRO.NS",
+            "FINPIPE.NS",
+            "CANFINHOME.NS",
+            "BAJFINANCE.NS",
+            "CEATLTD.NS",
+            "AARTIIND.NS"
+        ]
+    },
+    "Jun 2017": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "AVANTIFEED.NS",
+            "NBCC.NS",
+            "AARTIIND.NS",
+            "JBCHEPHARM.NS",
+            "JKTYRE.NS",
+            "CANFINHOME.NS",
+            "CEATLTD.NS",
+            "LT.NS",
+            "AJANTPHARM.NS",
+            "ATUL.NS"
+        ],
+        "Filter 3": [
+            "CANFINHOME.NS",
+            "AVANTIFEED.NS",
+            "CEATLTD.NS",
+            "JKTYRE.NS",
+            "BAJFINANCE.NS",
+            "AARTIIND.NS"
+        ]
+    },
+    "Aug 2017": {
+        "Filter_2_50%": [
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "APLAPOLLO.NS",
+            "KPRMILL.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS"
+        ],
+        "Filter 3": [
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "APLAPOLLO.NS",
+            "KPRMILL.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS"
+        ]
+    },
+    "Jul 2017": {
+        "Filter_2_50%": [
+            "EICHERMOT.NS",
+            "BAJFINANCE.NS",
+            "APLAPOLLO.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "JKTYRE.NS",
+            "AJANTPHARM.NS"
+        ],
+        "Filter 3": [
+            "AARTIIND.NS",
+            "APLAPOLLO.NS",
+            "BAJFINANCE.NS",
+            "JKTYRE.NS",
+            "EICHERMOT.NS",
+            "CHOLAFIN.NS"
+        ]
+    },
+    "Oct 2017": {
+        "Filter_2_50%": [
+            "EICHERMOT.NS",
+            "IOC.NS",
+            "HERITGFOOD.NS",
+            "KPRMILL.NS",
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS"
+        ],
+        "Filter 3": [
+            "EICHERMOT.NS",
+            "IOC.NS",
+            "HERITGFOOD.NS",
+            "KPRMILL.NS",
+            "BAJFINANCE.NS",
+            "CANFINHOME.NS"
+        ]
+    },
+    "Nov 2017": {
+        "Filter_2_50%": [
+            "TRIDENT.NS",
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "KPRMILL.NS",
+            "AVANTIFEED.NS",
+            "CANFINHOME.NS"
+        ],
+        "Filter 3": [
+            "TRIDENT.NS",
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "KPRMILL.NS",
+            "AVANTIFEED.NS",
+            "CANFINHOME.NS"
+        ]
+    },
+    "Sep 2017": {
+        "Filter_2_50%": [
+            "TRIDENT.NS",
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "APLAPOLLO.NS",
+            "KPRMILL.NS",
+            "IOC.NS",
+            "BAJFINANCE.NS"
+        ],
+        "Filter 3": [
+            "TRIDENT.NS",
+            "IOC.NS",
+            "APLAPOLLO.NS",
+            "BAJFINANCE.NS",
+            "EICHERMOT.NS",
+            "KPRMILL.NS"
+        ]
+    },
+    "Dec 2017": {
+        "Filter_2_50%": [
+            "BPCL.NS",
+            "EICHERMOT.NS",
+            "IGL.NS",
+            "BAJFINANCE.NS",
+            "SONATSOFTW.NS",
+            "AVANTIFEED.NS",
+            "CANFINHOME.NS",
+            "MRF.NS",
+            "CEATLTD.NS",
+            "BRITANNIA.NS"
+        ],
+        "Filter 3": [
+            "AVANTIFEED.NS",
+            "IGL.NS",
+            "BRITANNIA.NS",
+            "BAJFINANCE.NS",
+            "SONATSOFTW.NS",
+            "CEATLTD.NS"
+        ]
+    },
+    "Feb 2018": {
+        "Filter_2_50%": [
+            "NBCC.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS",
+            "CEATLTD.NS",
+            "PIDILITIND.NS"
+        ],
+        "Filter 3": [
+            "NBCC.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS",
+            "CEATLTD.NS",
+            "PIDILITIND.NS"
+        ]
+    },
+    "Jan 2018": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "TRIDENT.NS",
+            "EICHERMOT.NS",
+            "NBCC.NS",
+            "KPRMILL.NS",
+            "FINPIPE.NS",
+            "SRF.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "SONATSOFTW.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "FINPIPE.NS",
+            "AARTIIND.NS",
+            "TRIDENT.NS",
+            "NBCC.NS",
+            "SONATSOFTW.NS"
+        ]
+    },
+    "Mar 2018": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "SRF.NS",
+            "AARTIIND.NS",
+            "CANFINHOME.NS",
+            "TVSSRICHAK.NS",
+            "CEATLTD.NS",
+            "MRF.NS",
+            "SONATSOFTW.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "MRF.NS",
+            "SONATSOFTW.NS",
+            "CEATLTD.NS",
+            "CANFINHOME.NS"
+        ]
+    },
+    "Apr 2018": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "HINDPETRO.NS",
+            "BPCL.NS",
+            "NBCC.NS",
+            "EICHERMOT.NS",
+            "SRF.NS",
+            "AARTIIND.NS",
+            "JKTYRE.NS",
+            "CANFINHOME.NS",
+            "APLAPOLLO.NS",
+            "CEATLTD.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "APLAPOLLO.NS",
+            "SRF.NS",
+            "JKTYRE.NS",
+            "CEATLTD.NS"
+        ]
+    },
+    "May 2018": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "EICHERMOT.NS",
+            "HERITGFOOD.NS",
+            "SRF.NS",
+            "GHCL.NS",
+            "APLAPOLLO.NS",
+            "NAVINFLUOR.NS",
+            "CEATLTD.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "APLAPOLLO.NS",
+            "SRF.NS",
+            "EICHERMOT.NS",
+            "NAVINFLUOR.NS",
+            "HERITGFOOD.NS"
+        ]
+    },
+    "Jun 2018": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "EICHERMOT.NS",
+            "SRF.NS",
+            "AARTIIND.NS",
+            "HERITGFOOD.NS",
+            "CHAMBLFERT.NS",
+            "GHCL.NS",
+            "NAVINFLUOR.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CHAMBLFERT.NS",
+            "HERITGFOOD.NS",
+            "NAVINFLUOR.NS",
+            "GHCL.NS"
+        ]
+    },
+    "Jul 2018": {
+        "Filter_2_50%": [
+            "EICHERMOT.NS",
+            "APLAPOLLO.NS",
+            "AVANTIFEED.NS",
+            "BAJFINANCE.NS",
+            "KNRCON.NS",
+            "GHCL.NS",
+            "AARTIIND.NS",
+            "HERITGFOOD.NS",
+            "CHAMBLFERT.NS",
+            "BLUESTARCO.NS",
+            "KEC.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "CHAMBLFERT.NS",
+            "AARTIIND.NS",
+            "KEC.NS",
+            "KNRCON.NS",
+            "HERITGFOOD.NS"
+        ]
+    },
+    "Sep 2018": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CHAMBLFERT.NS",
+            "CENTURYPLY.NS",
+            "NILKAMAL.NS",
+            "MARUTI.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "CHAMBLFERT.NS",
+            "CENTURYPLY.NS",
+            "NILKAMAL.NS",
+            "MARUTI.NS"
+        ]
+    },
+    "Aug 2018": {
+        "Filter_2_50%": [
+            "IOC.NS",
+            "BAJFINANCE.NS",
+            "KNRCON.NS",
+            "AARTIIND.NS",
+            "NILKAMAL.NS",
+            "SUDARSCHEM.NS",
+            "NAUKRI.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "NAUKRI.NS",
+            "AARTIIND.NS",
+            "SUDARSCHEM.NS",
+            "KNRCON.NS",
+            "IOC.NS"
+        ]
+    },
+    "Nov 2018": {
+        "Filter_2_50%": [
+            "KPRMILL.NS",
+            "IOC.NS",
+            "AARTIIND.NS",
+            "BRITANNIA.NS",
+            "DCAL.NS",
+            "MARUTI.NS"
+        ],
+        "Filter 3": [
+            "KPRMILL.NS",
+            "IOC.NS",
+            "AARTIIND.NS",
+            "BRITANNIA.NS",
+            "DCAL.NS",
+            "MARUTI.NS"
+        ]
+    },
+    "Oct 2018": {
+        "Filter_2_50%": [
+            "KNRCON.NS",
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "BRITANNIA.NS",
+            "NILKAMAL.NS",
+            "MARUTI.NS",
+            "NAVINFLUOR.NS"
+        ],
+        "Filter 3": [
+            "BRITANNIA.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "NILKAMAL.NS",
+            "MARUTI.NS",
+            "NAVINFLUOR.NS"
+        ]
+    },
+    "Jan 2019": {
+        "Filter_2_50%": [
+            "HINDPETRO.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "CHAMBLFERT.NS"
+        ],
+        "Filter 3": [
+            "HINDPETRO.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "CHAMBLFERT.NS"
+        ]
+    },
+    "Dec 2018": {
+        "Filter_2_50%": [
+            "EICHERMOT.NS",
+            "HINDPETRO.NS",
+            "IOC.NS",
+            "BAJFINANCE.NS",
+            "SONATSOFTW.NS",
+            "AARTIIND.NS",
+            "SRF.NS",
+            "BLUESTARCO.NS"
+        ],
+        "Filter 3": [
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "SONATSOFTW.NS",
+            "SRF.NS",
+            "BLUESTARCO.NS",
+            "EICHERMOT.NS"
+        ]
+    },
+    "Mar 2019": {
+        "Filter_2_50%": [
+            "AARTIIND.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS",
+            "DCMSHRIRAM.NS",
+            "CHAMBLFERT.NS"
+        ],
+        "Filter 3": [
+            "AARTIIND.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS",
+            "DCMSHRIRAM.NS",
+            "CHAMBLFERT.NS"
+        ]
+    },
+    "Feb 2019": {
+        "Filter_2_50%": [
+            "HINDPETRO.NS",
+            "AARTIIND.NS",
+            "KNRCON.NS",
+            "SONATSOFTW.NS",
+            "MRF.NS",
+            "MANAPPURAM.NS",
+            "CHAMBLFERT.NS"
+        ],
+        "Filter 3": [
+            "AARTIIND.NS",
+            "CHAMBLFERT.NS",
+            "SONATSOFTW.NS",
+            "MANAPPURAM.NS",
+            "MRF.NS",
+            "KNRCON.NS"
+        ]
+    },
+    "Apr 2019": {
+        "Filter_2_50%": [
+            "EICHERMOT.NS",
+            "BPCL.NS",
+            "SRF.NS",
+            "NAVINFLUOR.NS",
+            "KNRCON.NS",
+            "DCMSHRIRAM.NS",
+            "CHAMBLFERT.NS",
+            "MANAPPURAM.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "MANAPPURAM.NS",
+            "CHAMBLFERT.NS",
+            "KNRCON.NS",
+            "NAVINFLUOR.NS",
+            "DCMSHRIRAM.NS"
+        ]
+    },
+    "May 2019": {
+        "Filter_2_50%": [
+            "NAVINFLUOR.NS",
+            "SRF.NS",
+            "BAJFINANCE.NS",
+            "DCMSHRIRAM.NS",
+            "MANAPPURAM.NS",
+            "MARUTI.NS",
+            "DEEPAKNTR.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "DCMSHRIRAM.NS",
+            "SRF.NS",
+            "DEEPAKNTR.NS",
+            "MANAPPURAM.NS",
+            "NAVINFLUOR.NS"
+        ]
+    },
+    "Jun 2019": {
+        "Filter_2_50%": [
+            "GHCL.NS",
+            "NAVINFLUOR.NS",
+            "SRF.NS",
+            "KNRCON.NS",
+            "BLUESTARCO.NS",
+            "CHAMBLFERT.NS",
+            "MANAPPURAM.NS",
+            "KANSAINER.NS",
+            "HINDUNILVR.NS",
+            "MARUTI.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "HINDUNILVR.NS",
+            "MANAPPURAM.NS",
+            "BLUESTARCO.NS",
+            "CHAMBLFERT.NS",
+            "NAVINFLUOR.NS"
+        ]
+    },
+    "Aug 2019": {
+        "Filter_2_50%": [
+            "APLAPOLLO.NS",
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "CHAMBLFERT.NS",
+            "KNRCON.NS"
+        ],
+        "Filter 3": [
+            "APLAPOLLO.NS",
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "CHAMBLFERT.NS",
+            "KNRCON.NS"
+        ]
+    },
+    "Jul 2019": {
+        "Filter_2_50%": [
+            "GHCL.NS",
+            "SRF.NS",
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "KNRCON.NS",
+            "CHAMBLFERT.NS",
+            "TORNTPHARM.NS",
+            "KEI.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "BAJFINANCE.NS",
+            "KNRCON.NS",
+            "CHAMBLFERT.NS",
+            "KEI.NS",
+            "TORNTPHARM.NS"
+        ]
+    },
+    "Oct 2019": {
+        "Filter_2_50%": [
+            "APLAPOLLO.NS",
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "RELIANCE.NS"
+        ],
+        "Filter 3": [
+            "APLAPOLLO.NS",
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "RELIANCE.NS"
+        ]
+    },
+    "Nov 2019": {
+        "Filter_2_50%": [
+            "TRIDENT.NS",
+            "KPRMILL.NS",
+            "IOC.NS",
+            "BAJFINANCE.NS",
+            "RELIANCE.NS",
+            "KEI.NS"
+        ],
+        "Filter 3": [
+            "TRIDENT.NS",
+            "KPRMILL.NS",
+            "IOC.NS",
+            "BAJFINANCE.NS",
+            "RELIANCE.NS",
+            "KEI.NS"
+        ]
+    },
+    "Sep 2019": {
+        "Filter_2_50%": [
+            "APLAPOLLO.NS",
+            "KNRCON.NS",
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "IGL.NS",
+            "KEI.NS",
+            "ESCORTS.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "IGL.NS",
+            "KEI.NS",
+            "KNRCON.NS",
+            "APLAPOLLO.NS",
+            "JKPAPER.NS"
+        ]
+    },
+    "Dec 2019": {
+        "Filter_2_50%": [
+            "EICHERMOT.NS",
+            "GARFIBRES.NS",
+            "SRF.NS",
+            "BAJFINANCE.NS",
+            "JAMNAAUTO.NS",
+            "MUTHOOTFIN.NS",
+            "KEI.NS",
+            "VINATIORGA.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "MUTHOOTFIN.NS",
+            "SRF.NS",
+            "VINATIORGA.NS",
+            "KEI.NS",
+            "GARFIBRES.NS"
+        ]
+    },
+    "Jan 2020": {
+        "Filter_2_50%": [
+            "HINDPETRO.NS",
+            "GARFIBRES.NS",
+            "CHOLAFIN.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "JAMNAAUTO.NS",
+            "JKPAPER.NS",
+            "ZEEL.NS",
+            "RELIANCE.NS",
+            "KEI.NS",
+            "CANFINHOME.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "RELIANCE.NS",
+            "CANFINHOME.NS",
+            "CHOLAFIN.NS",
+            "KEI.NS",
+            "AARTIIND.NS"
+        ]
+    },
+    "Feb 2020": {
+        "Filter_2_50%": [
+            "HINDPETRO.NS",
+            "GARFIBRES.NS",
+            "SONATSOFTW.NS",
+            "KNRCON.NS",
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "CHAMBLFERT.NS",
+            "KEI.NS",
+            "MUTHOOTFIN.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "MUTHOOTFIN.NS",
+            "GARFIBRES.NS",
+            "KNRCON.NS",
+            "KEI.NS",
+            "SONATSOFTW.NS"
+        ]
+    },
+    "Mar 2020": {
+        "Filter_2_50%": [
+            "CHOLAFIN.NS",
+            "GARFIBRES.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "CHAMBLFERT.NS",
+            "RELIANCE.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "GARFIBRES.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "RELIANCE.NS",
+            "CHAMBLFERT.NS"
+        ]
+    },
+    "Apr 2020": {
+        "Filter_2_50%": [
+            "DCMSHRIRAM.NS",
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "JKPAPER.NS",
+            "SRF.NS",
+            "KEI.NS",
+            "RELIANCE.NS",
+            "SUNDRMFAST.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "RELIANCE.NS",
+            "KEI.NS",
+            "JKPAPER.NS"
+        ]
+    },
+    "May 2020": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "VMART.NS",
+            "JKPAPER.NS",
+            "SRF.NS",
+            "AARTIIND.NS",
+            "KEI.NS",
+            "RELIANCE.NS",
+            "BRITANNIA.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "AARTIIND.NS",
+            "BRITANNIA.NS",
+            "RELIANCE.NS",
+            "BAJFINANCE.NS",
+            "KEI.NS"
+        ]
+    },
+    "Jun 2020": {
+        "Filter_2_50%": [
+            "APLAPOLLO.NS",
+            "BAJFINANCE.NS",
+            "GUJALKALI.NS",
+            "JKPAPER.NS",
+            "AARTIIND.NS",
+            "SRF.NS",
+            "KEI.NS",
+            "BIRLAMONEY.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "AARTIIND.NS",
+            "APLAPOLLO.NS",
+            "JKPAPER.NS",
+            "GUJALKALI.NS",
+            "KEI.NS"
+        ]
+    },
+    "Jul 2020": {
+        "Filter_2_50%": [
+            "GARFIBRES.NS",
+            "APLAPOLLO.NS",
+            "CHAMBLFERT.NS",
+            "JKPAPER.NS",
+            "KEI.NS",
+            "ALKYLAMINE.NS",
+            "MANAPPURAM.NS",
+            "AARTIIND.NS"
+        ],
+        "Filter 3": [
+            "ALKYLAMINE.NS",
+            "GARFIBRES.NS",
+            "MANAPPURAM.NS",
+            "AARTIIND.NS",
+            "APLAPOLLO.NS",
+            "CHAMBLFERT.NS"
+        ]
+    },
+    "Aug 2020": {
+        "Filter_2_50%": [
+            "TATASTEEL.NS",
+            "JKPAPER.NS",
+            "BAJFINANCE.NS",
+            "GARFIBRES.NS",
+            "CHAMBLFERT.NS",
+            "KEI.NS",
+            "ALKYLAMINE.NS",
+            "AARTIIND.NS",
+            "MOIL.NS"
+        ],
+        "Filter 3": [
+            "ALKYLAMINE.NS",
+            "GARFIBRES.NS",
+            "AARTIIND.NS",
+            "CHAMBLFERT.NS",
+            "MOIL.NS",
+            "BAJFINANCE.NS"
+        ]
+    },
+    "Sep 2020": {
+        "Filter_2_50%": [
+            "BHARATRAS.NS",
+            "BAJFINANCE.NS",
+            "APLAPOLLO.NS",
+            "DCMSHRIRAM.NS",
+            "ALKYLAMINE.NS",
+            "AARTIIND.NS",
+            "BAJAJELEC.NS",
+            "ESCORTS.NS",
+            "RAMCOCEM.NS",
+            "DEEPAKNTR.NS"
+        ],
+        "Filter 3": [
+            "ALKYLAMINE.NS",
+            "DEEPAKNTR.NS",
+            "ESCORTS.NS",
+            "BHARATRAS.NS",
+            "APLAPOLLO.NS",
+            "AARTIIND.NS"
+        ]
+    },
+    "Oct 2020": {
+        "Filter_2_50%": [
+            "GAEL.NS",
+            "BHARATRAS.NS",
+            "BAJFINANCE.NS",
+            "POLYPLEX.NS",
+            "AARTIIND.NS",
+            "ALKYLAMINE.NS",
+            "NOCIL.NS",
+            "ESABINDIA.NS"
+        ],
+        "Filter 3": [
+            "ALKYLAMINE.NS",
+            "BHARATRAS.NS",
+            "POLYPLEX.NS",
+            "AARTIIND.NS",
+            "NOCIL.NS",
+            "GAEL.NS"
+        ]
+    },
+    "Nov 2020": {
+        "Filter_2_50%": [
+            "BHARATRAS.NS",
+            "BAJFINANCE.NS",
+            "POLYPLEX.NS",
+            "TRIDENT.NS",
+            "ALKYLAMINE.NS",
+            "AARTIIND.NS",
+            "NOCIL.NS",
+            "SUPREMEIND.NS",
+            "ESCORTS.NS",
+            "DEEPAKNTR.NS"
+        ],
+        "Filter 3": [
+            "ALKYLAMINE.NS",
+            "DEEPAKNTR.NS",
+            "ESCORTS.NS",
+            "BHARATRAS.NS",
+            "POLYPLEX.NS",
+            "SUPREMEIND.NS"
+        ]
+    },
+    "Dec 2020": {
+        "Filter_2_50%": [
+            "GARFIBRES.NS",
+            "BAJFINANCE.NS",
+            "SRF.NS",
+            "AARTIDRUGS.NS",
+            "ALKYLAMINE.NS",
+            "MANAPPURAM.NS",
+            "AARTIIND.NS",
+            "MUTHOOTFIN.NS"
+        ],
+        "Filter 3": [
+            "ALKYLAMINE.NS",
+            "AARTIDRUGS.NS",
+            "GARFIBRES.NS",
+            "SRF.NS",
+            "MUTHOOTFIN.NS",
+            "AARTIIND.NS"
+        ]
+    },
+    "Jan 2021": {
+        "Filter_2_50%": [
+            "TRIDENT.NS",
+            "EICHERMOT.NS",
+            "CHOLAFIN.NS",
+            "BHARATRAS.NS",
+            "GARFIBRES.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "JAMNAAUTO.NS",
+            "SRF.NS",
+            "POLYPLEX.NS",
+            "CHAMBLFERT.NS"
+        ],
+        "Filter 3": [
+            "GARFIBRES.NS",
+            "SRF.NS",
+            "CHAMBLFERT.NS",
+            "BHARATRAS.NS",
+            "AARTIIND.NS",
+            "TRIDENT.NS"
+        ]
+    },
+    "Feb 2021": {
+        "Filter_2_50%": [
+            "JKPAPER.NS",
+            "CHOLAFIN.NS",
+            "BHARATRAS.NS",
+            "GARFIBRES.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS",
+            "JAMNAAUTO.NS",
+            "TATACHEM.NS",
+            "KNRCON.NS"
+        ],
+        "Filter 3": [
+            "GARFIBRES.NS",
+            "BHARATRAS.NS",
+            "TATACHEM.NS",
+            "JAMNAAUTO.NS",
+            "KNRCON.NS",
+            "CHOLAFIN.NS"
+        ]
+    },
+    "Mar 2021": {
+        "Filter_2_50%": [
+            "HINDPETRO.NS",
+            "GAEL.NS",
+            "AARTIIND.NS",
+            "BHARATRAS.NS",
+            "JKPAPER.NS",
+            "AARTIDRUGS.NS",
+            "GARFIBRES.NS",
+            "SRF.NS",
+            "ADANIPORTS.NS"
+        ],
+        "Filter 3": [
+            "AARTIDRUGS.NS",
+            "ADANIPORTS.NS",
+            "GARFIBRES.NS",
+            "GAEL.NS",
+            "HINDPETRO.NS",
+            "BHARATRAS.NS"
+        ]
+    },
+    "Apr 2021": {
+        "Filter_2_50%": [
+            "AARTIIND.NS",
+            "GAEL.NS",
+            "ADANIENT.NS",
+            "ALKYLAMINE.NS",
+            "JKPAPER.NS",
+            "GARFIBRES.NS",
+            "BAJFINANCE.NS",
+            "BIRLAMONEY.NS",
+            "POLYPLEX.NS",
+            "SRF.NS",
+            "TATACHEM.NS"
+        ],
+        "Filter 3": [
+            "ADANIENT.NS",
+            "ALKYLAMINE.NS",
+            "TATACHEM.NS",
+            "GAEL.NS",
+            "POLYPLEX.NS",
+            "BAJFINANCE.NS"
+        ]
+    },
+    "May 2021": {
+        "Filter_2_50%": [
+            "AARTIIND.NS",
+            "ADANIENT.NS",
+            "ALKYLAMINE.NS",
+            "BAJFINANCE.NS",
+            "KNRCON.NS",
+            "SRF.NS",
+            "MUTHOOTFIN.NS"
+        ],
+        "Filter 3": [
+            "ADANIENT.NS",
+            "ALKYLAMINE.NS",
+            "BAJFINANCE.NS",
+            "SRF.NS",
+            "KNRCON.NS",
+            "MUTHOOTFIN.NS"
+        ]
+    },
+    "Jun 2021": {
+        "Filter_2_50%": [
+            "JINDALSAW.NS",
+            "AARTIIND.NS",
+            "JKPAPER.NS",
+            "SRF.NS",
+            "BIRLAMONEY.NS",
+            "CHAMBLFERT.NS",
+            "POLYPLEX.NS",
+            "ADANIPORTS.NS",
+            "RATNAMANI.NS",
+            "VINATIORGA.NS"
+        ],
+        "Filter 3": [
+            "ADANIPORTS.NS",
+            "RATNAMANI.NS",
+            "CHAMBLFERT.NS",
+            "POLYPLEX.NS",
+            "VINATIORGA.NS",
+            "BIRLAMONEY.NS"
+        ]
+    },
+    "Jul 2021": {
+        "Filter_2_50%": [
+            "JINDALSAW.NS",
+            "BAJFINANCE.NS",
+            "CHAMBLFERT.NS",
+            "JKPAPER.NS",
+            "REDINGTON.NS",
+            "PNCINFRA.NS",
+            "AARTIIND.NS",
+            "ALKYLAMINE.NS",
+            "TATACHEM.NS",
+            "VENKEYS.NS",
+            "GSPL.NS"
+        ],
+        "Filter 3": [
+            "ALKYLAMINE.NS",
+            "VENKEYS.NS",
+            "REDINGTON.NS",
+            "TATACHEM.NS",
+            "BAJFINANCE.NS",
+            "CHAMBLFERT.NS"
+        ]
+    },
+    "Aug 2021": {
+        "Filter_2_50%": [
+            "TATASTEEL.NS",
+            "JINDALSAW.NS",
+            "CHAMBLFERT.NS",
+            "BAJFINANCE.NS",
+            "POLYPLEX.NS",
+            "JKPAPER.NS",
+            "REDINGTON.NS",
+            "KEI.NS",
+            "PNCINFRA.NS"
+        ],
+        "Filter 3": [
+            "TATASTEEL.NS",
+            "JKPAPER.NS",
+            "REDINGTON.NS",
+            "PNCINFRA.NS",
+            "POLYPLEX.NS",
+            "CHAMBLFERT.NS"
+        ]
+    },
+    "Oct 2021": {
+        "Filter_2_50%": [
+            "GAEL.NS",
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "ALKYLAMINE.NS",
+            "JUBLFOOD.NS"
+        ],
+        "Filter 3": [
+            "GAEL.NS",
+            "BAJFINANCE.NS",
+            "AARTIIND.NS",
+            "ALKYLAMINE.NS",
+            "JUBLFOOD.NS"
+        ]
+    },
+    "Sep 2021": {
+        "Filter_2_50%": [
+            "GARFIBRES.NS",
+            "JINDALSAW.NS",
+            "CHAMBLFERT.NS",
+            "POLYPLEX.NS",
+            "BAJFINANCE.NS",
+            "PNCINFRA.NS",
+            "AARTIIND.NS",
+            "ALKYLAMINE.NS",
+            "SUPREMEIND.NS",
+            "NOCIL.NS",
+            "APLAPOLLO.NS"
+        ],
+        "Filter 3": [
+            "APLAPOLLO.NS",
+            "ALKYLAMINE.NS",
+            "CHAMBLFERT.NS",
+            "POLYPLEX.NS",
+            "BAJFINANCE.NS",
+            "NOCIL.NS"
+        ]
+    },
+    "Nov 2021": {
+        "Filter_2_50%": [
+            "KPRMILL.NS",
+            "CHAMBLFERT.NS",
+            "POLYPLEX.NS",
+            "BAJFINANCE.NS",
+            "DBL.NS",
+            "AARTIIND.NS",
+            "ALKYLAMINE.NS",
+            "ESCORTS.NS",
+            "JUBLFOOD.NS",
+            "TRIDENT.NS"
+        ],
+        "Filter 3": [
+            "KPRMILL.NS",
+            "TRIDENT.NS",
+            "ALKYLAMINE.NS",
+            "BAJFINANCE.NS",
+            "CHAMBLFERT.NS",
+            "DBL.NS"
+        ]
+    },
+    "Dec 2021": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "SRF.NS",
+            "JSWSTEEL.NS",
+            "ALKYLAMINE.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "JUBLFOOD.NS",
+            "BALAMINES.NS",
+            "PIDILITIND.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "BALAMINES.NS",
+            "ALKYLAMINE.NS",
+            "JSWSTEEL.NS",
+            "AARTIIND.NS",
+            "JUBLFOOD.NS"
+        ]
+    },
+    "Jan 2022": {
+        "Filter_2_50%": [
+            "BHARATRAS.NS",
+            "BAJFINANCE.NS",
+            "SONATSOFTW.NS",
+            "SRF.NS",
+            "MUTHOOTFIN.NS",
+            "AARTIIND.NS",
+            "JUBLFOOD.NS",
+            "ALKYLAMINE.NS",
+            "SUPREMEIND.NS",
+            "CHOLAFIN.NS",
+            "LUXIND.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "SONATSOFTW.NS",
+            "LUXIND.NS",
+            "ALKYLAMINE.NS",
+            "AARTIIND.NS",
+            "BAJFINANCE.NS"
+        ]
+    },
+    "Feb 2022": {
+        "Filter_2_50%": [
+            "BHARATRAS.NS",
+            "BAJFINANCE.NS",
+            "POLYPLEX.NS",
+            "COFORGE.NS",
+            "TATACHEM.NS",
+            "JUBLFOOD.NS",
+            "ALKYLAMINE.NS",
+            "CHOLAFIN.NS"
+        ],
+        "Filter 3": [
+            "POLYPLEX.NS",
+            "COFORGE.NS",
+            "TATACHEM.NS",
+            "ALKYLAMINE.NS",
+            "CHOLAFIN.NS",
+            "BAJFINANCE.NS"
+        ]
+    },
+    "Mar 2022": {
+        "Filter_2_50%": [
+            "EICHERMOT.NS",
+            "BHARATRAS.NS",
+            "BAJFINANCE.NS",
+            "GARFIBRES.NS",
+            "POLYPLEX.NS",
+            "SRF.NS",
+            "TATACHEM.NS",
+            "JSWSTEEL.NS",
+            "AARTIIND.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "POLYPLEX.NS",
+            "AARTIIND.NS",
+            "JSWSTEEL.NS",
+            "BAJFINANCE.NS",
+            "BHARATRAS.NS"
+        ]
+    },
+    "Apr 2022": {
+        "Filter_2_50%": [
+            "GARFIBRES.NS",
+            "SONATSOFTW.NS",
+            "BAJFINANCE.NS",
+            "BIRLAMONEY.NS",
+            "DCMSHRIRAM.NS",
+            "WELCORP.NS",
+            "SRF.NS",
+            "POLYPLEX.NS",
+            "ALKYLAMINE.NS",
+            "KEI.NS",
+            "AARTIIND.NS",
+            "CHOLAFIN.NS",
+            "RADICO.NS"
+        ],
+        "Filter 3": [
+            "SRF.NS",
+            "POLYPLEX.NS",
+            "KEI.NS",
+            "DCMSHRIRAM.NS",
+            "RADICO.NS",
+            "BIRLAMONEY.NS"
+        ]
+    },
+    "May 2022": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "JKPAPER.NS",
+            "COFORGE.NS",
+            "SRF.NS",
+            "WELCORP.NS",
+            "KEI.NS",
+            "AARTIIND.NS",
+            "ALKYLAMINE.NS",
+            "HIKAL.NS",
+            "RADICO.NS"
+        ],
+        "Filter 3": [
+            "KEI.NS",
+            "JKPAPER.NS",
+            "SRF.NS",
+            "RADICO.NS",
+            "HIKAL.NS",
+            "COFORGE.NS"
+        ]
+    },
+    "Jun 2022": {
+        "Filter_2_50%": [
+            "CHAMBLFERT.NS",
+            "JKPAPER.NS",
+            "PNCINFRA.NS",
+            "SRF.NS",
+            "POLYPLEX.NS",
+            "KEI.NS",
+            "WELCORP.NS",
+            "GUJGASLTD.NS"
+        ],
+        "Filter 3": [
+            "KEI.NS",
+            "POLYPLEX.NS",
+            "JKPAPER.NS",
+            "SRF.NS",
+            "CHAMBLFERT.NS",
+            "WELCORP.NS"
+        ]
+    },
+    "Jul 2022": {
+        "Filter_2_50%": [
+            "JKPAPER.NS",
+            "REDINGTON.NS",
+            "POLYPLEX.NS",
+            "USHAMART.NS",
+            "JWL.NS",
+            "WELCORP.NS",
+            "GLOBUSSPR.NS",
+            "KEI.NS",
+            "NOCIL.NS",
+            "NIITLTD.NS"
+        ],
+        "Filter 3": [
+            "USHAMART.NS",
+            "POLYPLEX.NS",
+            "KEI.NS",
+            "JWL.NS",
+            "WELCORP.NS",
+            "NIITLTD.NS"
+        ]
+    },
+    "Sep 2022": {
+        "Filter_2_50%": [
+            "MAITHANALL.NS",
+            "GAEL.NS",
+            "BAJFINANCE.NS",
+            "CHAMBLFERT.NS",
+            "POLYPLEX.NS"
+        ],
+        "Filter 3": [
+            "MAITHANALL.NS",
+            "GAEL.NS",
+            "BAJFINANCE.NS",
+            "CHAMBLFERT.NS",
+            "POLYPLEX.NS"
+        ]
+    },
+    "Aug 2022": {
+        "Filter_2_50%": [
+            "MAITHANALL.NS",
+            "CHAMBLFERT.NS",
+            "BAJFINANCE.NS",
+            "GHCL.NS",
+            "JKPAPER.NS",
+            "POLYPLEX.NS",
+            "JWL.NS",
+            "WELCORP.NS",
+            "ANDHRSUGAR.NS",
+            "TIRUMALCHM.NS",
+            "NIITLTD.NS"
+        ],
+        "Filter 3": [
+            "GHCL.NS",
+            "POLYPLEX.NS",
+            "JWL.NS",
+            "WELCORP.NS",
+            "JKPAPER.NS",
+            "TIRUMALCHM.NS"
+        ]
+    },
+    "Nov 2022": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "JWL.NS",
+            "KPRMILL.NS",
+            "NIITLTD.NS",
+            "CHOLAFIN.NS",
+            "ACE.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "JWL.NS",
+            "KPRMILL.NS",
+            "NIITLTD.NS",
+            "CHOLAFIN.NS",
+            "ACE.NS"
+        ]
+    },
+    "Oct 2022": {
+        "Filter_2_50%": [
+            "MAITHANALL.NS",
+            "ESTER.NS",
+            "GARFIBRES.NS",
+            "BAJFINANCE.NS",
+            "GHCL.NS",
+            "POLYPLEX.NS",
+            "ANDHRSUGAR.NS",
+            "JWL.NS",
+            "AARTIIND.NS"
+        ],
+        "Filter 3": [
+            "JWL.NS",
+            "GHCL.NS",
+            "POLYPLEX.NS",
+            "ESTER.NS",
+            "ANDHRSUGAR.NS",
+            "GARFIBRES.NS"
+        ]
+    },
+    "Jan 2023": {
+        "Filter_2_50%": [
+            "GPIL.NS",
+            "POLYPLEX.NS",
+            "JINDALSTEL.NS",
+            "PERSISTENT.NS",
+            "TATACHEM.NS",
+            "CHOLAFIN.NS"
+        ],
+        "Filter 3": [
+            "GPIL.NS",
+            "POLYPLEX.NS",
+            "JINDALSTEL.NS",
+            "PERSISTENT.NS",
+            "TATACHEM.NS",
+            "CHOLAFIN.NS"
+        ]
+    },
+    "Feb 2023": {
+        "Filter_2_50%": [
+            "REFEX.NS",
+            "JKPAPER.NS",
+            "TATACHEM.NS",
+            "ULTRACEMCO.NS"
+        ],
+        "Filter 3": [
+            "REFEX.NS",
+            "JKPAPER.NS",
+            "TATACHEM.NS",
+            "ULTRACEMCO.NS"
+        ]
+    },
+    "Mar 2023": {
+        "Filter_2_50%": [
+            "COFORGE.NS",
+            "JKPAPER.NS",
+            "ADANIPOWER.NS"
+        ],
+        "Filter 3": [
+            "COFORGE.NS",
+            "JKPAPER.NS",
+            "ADANIPOWER.NS"
+        ]
+    },
+    "Dec 2022": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "JINDALSTEL.NS",
+            "JWL.NS",
+            "PERSISTENT.NS",
+            "CHOLAFIN.NS",
+            "TATACHEM.NS",
+            "ACE.NS",
+            "ALKYLAMINE.NS"
+        ],
+        "Filter 3": [
+            "JWL.NS",
+            "ACE.NS",
+            "JINDALSTEL.NS",
+            "CHOLAFIN.NS",
+            "TATACHEM.NS",
+            "PERSISTENT.NS"
+        ]
+    },
+    "May 2023": {
+        "Filter_2_50%": [
+            "BAJFINANCE.NS",
+            "WELCORP.NS",
+            "UTTAMSUGAR.NS",
+            "COFORGE.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS"
+        ],
+        "Filter 3": [
+            "BAJFINANCE.NS",
+            "WELCORP.NS",
+            "UTTAMSUGAR.NS",
+            "COFORGE.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS"
+        ]
+    },
+    "Jun 2023": {
+        "Filter_2_50%": [
+            "PNCINFRA.NS",
+            "DLINKINDIA.NS",
+            "KEI.NS",
+            "NACLIND.NS",
+            "SKFINDIA.NS",
+            "BRIGADE.NS"
+        ],
+        "Filter 3": [
+            "PNCINFRA.NS",
+            "DLINKINDIA.NS",
+            "KEI.NS",
+            "NACLIND.NS",
+            "SKFINDIA.NS",
+            "BRIGADE.NS"
+        ]
+    },
+    "Apr 2023": {
+        "Filter_2_50%": [
+            "REFEX.NS",
+            "BAJFINANCE.NS",
+            "SRF.NS",
+            "SONATSOFTW.NS",
+            "HGINFRA.NS",
+            "PRIVISCL.NS",
+            "ADANIPOWER.NS",
+            "LTIM.NS",
+            "CHOLAFIN.NS",
+            "KEI.NS"
+        ],
+        "Filter 3": [
+            "REFEX.NS",
+            "KEI.NS",
+            "SONATSOFTW.NS",
+            "HGINFRA.NS",
+            "CHOLAFIN.NS",
+            "SRF.NS"
+        ]
+    },
+    "Aug 2023": {
+        "Filter_2_50%": [
+            "UTTAMSUGAR.NS",
+            "UGARSUGAR.NS",
+            "DLINKINDIA.NS",
+            "GREENLAM.NS",
+            "VOLTAMP.NS",
+            "USHAMART.NS"
+        ],
+        "Filter 3": [
+            "UTTAMSUGAR.NS",
+            "UGARSUGAR.NS",
+            "DLINKINDIA.NS",
+            "GREENLAM.NS",
+            "VOLTAMP.NS",
+            "USHAMART.NS"
+        ]
+    },
+    "Sep 2023": {
+        "Filter_2_50%": [
+            "UGARSUGAR.NS",
+            "KOTARISUG.NS",
+            "USHAMART.NS",
+            "CAPLIPOINT.NS",
+            "CHOLAFIN.NS"
+        ],
+        "Filter 3": [
+            "UGARSUGAR.NS",
+            "KOTARISUG.NS",
+            "USHAMART.NS",
+            "CAPLIPOINT.NS",
+            "CHOLAFIN.NS"
+        ]
+    },
+    "Jul 2023": {
+        "Filter_2_50%": [
+            "REDINGTON.NS",
+            "UTTAMSUGAR.NS",
+            "UGARSUGAR.NS",
+            "HGINFRA.NS",
+            "DLINKINDIA.NS",
+            "GLOBUSSPR.NS",
+            "NACLIND.NS",
+            "KEI.NS",
+            "PIDILITIND.NS"
+        ],
+        "Filter 3": [
+            "UGARSUGAR.NS",
+            "KEI.NS",
+            "HGINFRA.NS",
+            "DLINKINDIA.NS",
+            "REDINGTON.NS",
+            "GLOBUSSPR.NS"
+        ]
+    },
+    "Nov 2023": {
+        "Filter_2_50%": [
+            "PERSISTENT.NS",
+            "CHOLAFIN.NS",
+            "APLAPOLLO.NS"
+        ],
+        "Filter 3": [
+            "PERSISTENT.NS",
+            "CHOLAFIN.NS",
+            "APLAPOLLO.NS"
+        ]
+    },
+    "Oct 2023": {
+        "Filter_2_50%": [
+            "KOTARISUG.NS",
+            "DALMIASUG.NS",
+            "VOLTAMP.NS",
+            "TBZ.NS",
+            "BEL.NS",
+            "ACE.NS",
+            "CHOLAFIN.NS",
+            "PIIND.NS"
+        ],
+        "Filter 3": [
+            "ACE.NS",
+            "CHOLAFIN.NS",
+            "VOLTAMP.NS",
+            "KOTARISUG.NS",
+            "BEL.NS",
+            "DALMIASUG.NS"
+        ]
+    },
+    "Jan 2024": {
+        "Filter_2_50%": [
+            "BEL.NS",
+            "JSL.NS",
+            "CHOLAFIN.NS",
+            "SUPREMEIND.NS",
+            "GRINDWELL.NS"
+        ],
+        "Filter 3": [
+            "BEL.NS",
+            "JSL.NS",
+            "CHOLAFIN.NS",
+            "SUPREMEIND.NS",
+            "GRINDWELL.NS"
+        ]
+    },
+    "Feb 2024": {
+        "Filter_2_50%": [
+            "SARDAEN.NS",
+            "BEL.NS",
+            "JINDALSTEL.NS",
+            "HAL.NS",
+            "JSL.NS",
+            "PNCINFRA.NS"
+        ],
+        "Filter 3": [
+            "SARDAEN.NS",
+            "BEL.NS",
+            "JINDALSTEL.NS",
+            "HAL.NS",
+            "JSL.NS",
+            "PNCINFRA.NS"
+        ]
+    },
+    "Dec 2023": {
+        "Filter_2_50%": [
+            "REFEX.NS",
+            "HISARMETAL.NS",
+            "KOTARISUG.NS",
+            "JSL.NS",
+            "INDRAMEDCO.NS",
+            "JINDALSTEL.NS",
+            "JKLAKSHMI.NS",
+            "BALRAMCHIN.NS",
+            "BEL.NS",
+            "CHOLAFIN.NS"
+        ],
+        "Filter 3": [
+            "JSL.NS",
+            "INDRAMEDCO.NS",
+            "CHOLAFIN.NS",
+            "HISARMETAL.NS",
+            "REFEX.NS",
+            "KOTARISUG.NS"
+        ]
+    },
+    "Mar 2024": {
+        "Filter_2_50%": [
+            "SARDAEN.NS",
+            "ADANIPOWER.NS",
+            "COFORGE.NS",
+            "BEL.NS",
+            "HAL.NS",
+            "JSL.NS",
+            "CHOLAFIN.NS"
+        ],
+        "Filter 3": [
+            "BEL.NS",
+            "JSL.NS",
+            "ADANIPOWER.NS",
+            "HAL.NS",
+            "SARDAEN.NS",
+            "COFORGE.NS"
+        ]
+    },
+    "Apr 2024": {
+        "Filter_2_50%": [
+            "COFORGE.NS",
+            "ADANIPOWER.NS",
+            "JINDALSAW.NS",
+            "JINDALSTEL.NS",
+            "FINPIPE.NS",
+            "HAL.NS",
+            "SONATSOFTW.NS",
+            "JSL.NS",
+            "WELCORP.NS",
+            "CHOLAFIN.NS"
+        ],
+        "Filter 3": [
+            "HAL.NS",
+            "WELCORP.NS",
+            "JSL.NS",
+            "ADANIPOWER.NS",
+            "JINDALSAW.NS",
+            "COFORGE.NS"
+        ]
+    },
+    "May 2024": {
+        "Filter_2_50%": [
+            "BEL.NS",
+            "HAL.NS",
+            "JSL.NS",
+            "WELCORP.NS",
+            "BDL.NS",
+            "KEI.NS",
+            "WABAG.NS"
+        ],
+        "Filter 3": [
+            "JSL.NS",
+            "BEL.NS",
+            "HAL.NS",
+            "KEI.NS",
+            "WABAG.NS",
+            "WELCORP.NS"
+        ]
+    },
+    "Jun 2024": {
+        "Filter_2_50%": [
+            "SARDAEN.NS",
+            "FCL.NS",
+            "FIEMIND.NS",
+            "JINDALSTEL.NS",
+            "JSL.NS",
+            "PNCINFRA.NS",
+            "HAL.NS"
+        ],
+        "Filter 3": [
+            "JSL.NS",
+            "HAL.NS",
+            "JINDALSTEL.NS",
+            "PNCINFRA.NS",
+            "SARDAEN.NS",
+            "FIEMIND.NS"
+        ]
+    },
+    "Jul 2024": {
+        "Filter_2_50%": [
+            "PNCINFRA.NS",
+            "SARDAEN.NS",
+            "FIEMIND.NS",
+            "ELECON.NS",
+            "POLYCAB.NS",
+            "BEL.NS",
+            "KEI.NS",
+            "IRB.NS"
+        ],
+        "Filter 3": [
+            "BEL.NS",
+            "KEI.NS",
+            "IRB.NS",
+            "ELECON.NS",
+            "POLYCAB.NS",
+            "SARDAEN.NS"
+        ]
+    },
+    "Aug 2024": {
+        "Filter_2_50%": [
+            "SHRIRAMFIN.NS",
+            "FCL.NS",
+            "FIEMIND.NS",
+            "GUFICBIO.NS",
+            "RCF.NS",
+            "CHOLAFIN.NS",
+            "GABRIEL.NS",
+            "TVSMOTOR.NS",
+            "GRAVITA.NS"
+        ],
+        "Filter 3": [
+            "TVSMOTOR.NS",
+            "GABRIEL.NS",
+            "SHRIRAMFIN.NS",
+            "GRAVITA.NS",
+            "RCF.NS",
+            "GUFICBIO.NS"
+        ]
+    },
+    "Sep 2024": {
+        "Filter_2_50%": [
+            "ASHOKLEY.NS",
+            "JINDALSTEL.NS",
+            "FIEMIND.NS",
+            "SARDAEN.NS",
+            "RCF.NS",
+            "ECLERX.NS",
+            "ELECTCAST.NS",
+            "ELECON.NS",
+            "CHOLAFIN.NS",
+            "JYOTHYLAB.NS",
+            "POLYCAB.NS",
+            "TATAPOWER.NS"
+        ],
+        "Filter 3": [
+            "ELECTCAST.NS",
+            "TATAPOWER.NS",
+            "ECLERX.NS",
+            "FIEMIND.NS",
+            "RCF.NS",
+            "JYOTHYLAB.NS"
+        ]
+    },
+    "Oct 2024": {
+        "Filter_2_50%": [
+            "JINDALSTEL.NS",
+            "MSTCLTD.NS",
+            "RCF.NS",
+            "NTPC.NS",
+            "FIEMIND.NS",
+            "PGEL.NS",
+            "ECLERX.NS",
+            "ELECTCAST.NS",
+            "SARDAEN.NS",
+            "IMAGICAA.NS",
+            "SUPRAJIT.NS",
+            "ELECON.NS",
+            "SCHNEIDER.NS",
+            "HAL.NS",
+            "BSE.NS",
+            "PRICOLLTD.NS"
+        ],
+        "Filter 3": [
+            "PGEL.NS",
+            "ELECTCAST.NS",
+            "BSE.NS",
+            "HAL.NS",
+            "SCHNEIDER.NS",
+            "IMAGICAA.NS"
+        ]
+    },
+    "Nov 2024": {
+        "Filter_2_50%": [
+            "COFORGE.NS",
+            "JINDALSTEL.NS",
+            "FIEMIND.NS",
+            "ELECTCAST.NS",
+            "PGEL.NS",
+            "JSWSTEEL.NS",
+            "PCBL.NS",
+            "SARDAEN.NS",
+            "HAL.NS",
+            "IMAGICAA.NS",
+            "SCHNEIDER.NS",
+            "M&M.NS",
+            "TVSMOTOR.NS"
+        ],
+        "Filter 3": [
+            "PGEL.NS",
+            "HAL.NS",
+            "SCHNEIDER.NS",
+            "SARDAEN.NS",
+            "IMAGICAA.NS",
+            "COFORGE.NS"
+        ]
+    },
+    "Dec 2024": {
+        "Filter_2_50%": [
+            "JSL.NS",
+            "JINDALSTEL.NS",
+            "BANCOINDIA.NS",
+            "JKIL.NS",
+            "ELECTCAST.NS",
+            "FIEMIND.NS",
+            "RCF.NS",
+            "PGEL.NS",
+            "PCBL.NS",
+            "CHOLAFIN.NS",
+            "IMAGICAA.NS",
+            "SARDAEN.NS",
+            "HAL.NS",
+            "VOLTAMP.NS",
+            "TVSMOTOR.NS",
+            "ACE.NS",
+            "PATELENG.NS",
+            "IRB.NS"
+        ],
+        "Filter 3": [
+            "PGEL.NS",
+            "BANCOINDIA.NS",
+            "HAL.NS",
+            "SARDAEN.NS",
+            "VOLTAMP.NS",
+            "IMAGICAA.NS"
+        ]
+    },
+    "Jan 2025": {
+        "Filter_2_50%": [
+            "SARDAEN.NS",
+            "SUNFLAG.NS",
+            "FIEMIND.NS",
+            "JSL.NS",
+            "HAL.NS",
+            "JINDALSTEL.NS",
+            "IMAGICAA.NS",
+            "ELECTCAST.NS",
+            "AGI.NS",
+            "ELECON.NS",
+            "NAVA.NS",
+            "KIRLOSENG.NS",
+            "TATAPOWER.NS",
+            "PERSISTENT.NS",
+            "SCHNEIDER.NS",
+            "TVSMOTOR.NS"
+        ],
+        "Filter 3": [
+            "PERSISTENT.NS",
+            "NAVA.NS",
+            "SARDAEN.NS",
+            "SCHNEIDER.NS",
+            "HAL.NS",
+            "KIRLOSENG.NS"
+        ]
+    },
+    "Feb 2025": {
+        "Filter_2_50%": [
+            "SARDAEN.NS",
+            "SUNFLAG.NS",
+            "FIEMIND.NS",
+            "BANCOINDIA.NS",
+            "JSL.NS",
+            "HAL.NS",
+            "AGI.NS",
+            "WELENT.NS",
+            "ECLERX.NS",
+            "ELECON.NS"
+        ],
+        "Filter 3": [
+            "WELENT.NS",
+            "SARDAEN.NS",
+            "HAL.NS",
+            "BANCOINDIA.NS",
+            "FIEMIND.NS",
+            "ECLERX.NS"
+        ]
+    },
+    "Mar 2025": {
+        "Filter_2_50%": [
+            "SARDAEN.NS",
+            "FIEMIND.NS",
+            "HAL.NS",
+            "WELENT.NS",
+            "JSL.NS",
+            "ECLERX.NS",
+            "DATAMATICS.NS",
+            "BDL.NS",
+            "GABRIEL.NS",
+            "PERSISTENT.NS",
+            "CHOLAFIN.NS"
+        ],
+        "Filter 3": [
+            "SARDAEN.NS",
+            "CHOLAFIN.NS",
+            "GABRIEL.NS",
+            "PERSISTENT.NS",
+            "WELENT.NS",
+            "ECLERX.NS"
+        ]
+    },
+    "Apr 2025": {
+        "Filter_2_50%": [
+            "SARDAEN.NS",
+            "PATANJALI.NS",
+            "TI.NS",
+            "BANCOINDIA.NS",
+            "FIEMIND.NS",
+            "JINDALSAW.NS",
+            "RAMKY.NS",
+            "PNBHOUSING.NS",
+            "HAL.NS",
+            "AGI.NS",
+            "USHAMART.NS",
+            "JINDALSTEL.NS",
+            "PCBL.NS",
+            "ECLERX.NS",
+            "ELECON.NS",
+            "ASAHIINDIA.NS",
+            "PERSISTENT.NS",
+            "DATAMATICS.NS"
+        ],
+        "Filter 3": [
+            "SARDAEN.NS",
+            "PATANJALI.NS",
+            "PERSISTENT.NS",
+            "PCBL.NS",
+            "FIEMIND.NS",
+            "HAL.NS"
+        ]
+    },
+    "May 2025": {
+        "Filter_2_50%": [
+            "ADANIPOWER.NS",
+            "SARDAEN.NS",
+            "TI.NS",
+            "REDINGTON.NS",
+            "FIEMIND.NS",
+            "PNBHOUSING.NS",
+            "HAL.NS",
+            "PCBL.NS",
+            "AGI.NS",
+            "PERSISTENT.NS",
+            "CHOLAFIN.NS",
+            "M&M.NS"
+        ],
+        "Filter 3": [
+            "PERSISTENT.NS",
+            "SARDAEN.NS",
+            "M&M.NS",
+            "PNBHOUSING.NS",
+            "PCBL.NS",
+            "TI.NS"
+        ]
+    },
+    "Jun 2025": {
+        "Filter_2_50%": [
+            "SARDAEN.NS",
+            "TI.NS",
+            "FIEMIND.NS",
+            "ASHOKLEY.NS",
+            "HAL.NS",
+            "PCBL.NS",
+            "BLUESTARCO.NS",
+            "DATAMATICS.NS",
+            "PERSISTENT.NS",
+            "LT.NS",
+            "ELECON.NS",
+            "CHOLAFIN.NS",
+            "TVSMOTOR.NS",
+            "M&M.NS",
+            "CGPOWER.NS"
+        ],
+        "Filter 3": [
+            "SARDAEN.NS",
+            "PERSISTENT.NS",
+            "PCBL.NS",
+            "TI.NS",
+            "TVSMOTOR.NS",
+            "CHOLAFIN.NS"
+        ]
+    },
+    "Jul 2025": {
+        "Filter_2_50%": [
+            "TI.NS",
+            "BANCOINDIA.NS",
+            "VTL.NS",
+            "WELCORP.NS",
+            "INDIGO.NS",
+            "ELECON.NS",
+            "SARDAEN.NS",
+            "ECLERX.NS",
+            "CHOLAFIN.NS",
+            "TVSMOTOR.NS",
+            "LT.NS",
+            "MINDACORP.NS"
+        ],
+        "Filter 3": [
+            "WELCORP.NS",
+            "SARDAEN.NS",
+            "BANCOINDIA.NS",
+            "TI.NS",
+            "ECLERX.NS",
+            "INDIGO.NS"
+        ]
+    },
+    "Aug 2025": {
+        "Filter_2_50%": [
+            "SHRIRAMFIN.NS",
+            "JAYNECOIND.NS",
+            "TI.NS",
+            "MAHSEAMLES.NS",
+            "BANCOINDIA.NS",
+            "ASHOKLEY.NS",
+            "INDIGO.NS",
+            "PCBL.NS",
+            "REFEX.NS",
+            "FIEMIND.NS",
+            "CHOLAFIN.NS",
+            "TVSMOTOR.NS"
+        ],
+        "Filter 3": [
+            "FIEMIND.NS",
+            "TI.NS",
+            "INDIGO.NS",
+            "REFEX.NS",
+            "BANCOINDIA.NS",
+            "PCBL.NS"
+        ]
+    },
+    "Sep 2025": {
+        "Filter_2_50%": [
+            "JAYNECOIND.NS",
+            "ASHOKLEY.NS",
+            "JINDALSTEL.NS",
+            "ELECON.NS",
+            "RCF.NS",
+            "FIEMIND.NS",
+            "CHOLAFIN.NS",
+            "SCHNEIDER.NS",
+            "ECLERX.NS",
+            "SARDAEN.NS"
+        ],
+        "Filter 3": [
+            "SARDAEN.NS",
+            "FIEMIND.NS",
+            "ECLERX.NS",
+            "JAYNECOIND.NS",
+            "SCHNEIDER.NS",
+            "ASHOKLEY.NS"
+        ]
+    },
+    "Oct 2025": {
+        "Filter_2_50%": [
+            "SPLPETRO.NS",
+            "JINDALSTEL.NS",
+            "FIEMIND.NS",
+            "INDIGO.NS",
+            "SARDAEN.NS",
+            "ECLERX.NS",
+            "HAL.NS",
+            "SCHNEIDER.NS",
+            "TIMETECHNO.NS",
+            "PRICOLLTD.NS",
+            "BHARATFORG.NS",
+            "MINDACORP.NS"
+        ],
+        "Filter 3": [
+            "ECLERX.NS",
+            "SARDAEN.NS",
+            "INDIGO.NS",
+            "FIEMIND.NS",
+            "PRICOLLTD.NS",
+            "TIMETECHNO.NS"
+        ]
+    },
+    "Nov 2025": {
+        "Filter_2_50%": [
+            "ADANIPOWER.NS",
+            "ASHOKLEY.NS",
+            "JINDALSTEL.NS",
+            "RCF.NS",
+            "PGEL.NS",
+            "WELENT.NS",
+            "FIEMIND.NS",
+            "WELCORP.NS",
+            "HAL.NS",
+            "SCHNEIDER.NS",
+            "M&M.NS",
+            "KEI.NS",
+            "POLYCAB.NS"
+        ],
+        "Filter 3": [
+            "ASHOKLEY.NS",
+            "ADANIPOWER.NS",
+            "FIEMIND.NS",
+            "WELCORP.NS",
+            "JINDALSTEL.NS",
+            "POLYCAB.NS"
+        ]
+    },
+    "Dec 2025": {
+        "Filter_2_50%": [
+            "JINDALSTEL.NS",
+            "SARDAEN.NS",
+            "HAL.NS",
+            "CHOLAFIN.NS",
+            "ECLERX.NS",
+            "CDSL.NS",
+            "KEI.NS",
+            "LT.NS"
+        ],
+        "Filter 3": [
+            "CHOLAFIN.NS",
+            "ECLERX.NS",
+            "JINDALSTEL.NS",
+            "LT.NS",
+            "SARDAEN.NS",
+            "HAL.NS"
+        ]
+    },
+    "Jan 2026": {
+        "Filter_2_50%": [
+            "ASHOKLEY.NS",
+            "JINDALSTEL.NS",
+            "FIEMIND.NS",
+            "USHAMART.NS",
+            "KIRLOSENG.NS",
+            "POLYCAB.NS",
+            "NAVA.NS",
+            "MINDACORP.NS",
+            "TVSMOTOR.NS"
+        ],
+        "Filter 3": [
+            "ASHOKLEY.NS",
+            "TVSMOTOR.NS",
+            "FIEMIND.NS",
+            "USHAMART.NS",
+            "KIRLOSENG.NS",
+            "NAVA.NS"
+        ]
+    },
+    "Feb 2026": {
+        "Filter_2_50%": [
+            "COFORGE.NS",
+            "JSL.NS",
+            "JINDALSTEL.NS",
+            "SUNFLAG.NS",
+            "INDIGO.NS",
+            "FIEMIND.NS",
+            "HAL.NS",
+            "KIRLOSENG.NS",
+            "POLYCAB.NS",
+            "NAVA.NS",
+            "PRICOLLTD.NS",
+            "MINDACORP.NS"
+        ],
+        "Filter 3": [
+            "JINDALSTEL.NS",
+            "FIEMIND.NS",
+            "JSL.NS",
+            "NAVA.NS",
+            "KIRLOSENG.NS",
+            "HAL.NS"
+        ]
+    },
+    "Mar 2026": {
+        "Filter_2_50%": [
+            "COFORGE.NS",
+            "TI.NS",
+            "ECLERX.NS",
+            "FIEMIND.NS",
+            "HAL.NS",
+            "CHOLAFIN.NS",
+            "PRICOLLTD.NS",
+            "CGPOWER.NS",
+            "MINDACORP.NS",
+            "NAVA.NS",
+            "POLYCAB.NS"
+        ],
+        "Filter 3": [
+            "POLYCAB.NS",
+            "PRICOLLTD.NS",
+            "FIEMIND.NS",
+            "TI.NS",
+            "NAVA.NS",
+            "ECLERX.NS"
+        ]
+    },
+    "Apr 2026": {
+        "Filter_2_50%": [
+            "COFORGE.NS",
+            "TI.NS",
+            "JINDALSTEL.NS",
+            "FIEMIND.NS",
+            "CHOLAFIN.NS",
+            "USHAMART.NS",
+            "NLCINDIA.NS",
+            "SCHNEIDER.NS",
+            "POLYCAB.NS",
+            "KIRLOSBROS.NS",
+            "PRICOLLTD.NS",
+            "MINDACORP.NS",
+            "DATAMATICS.NS",
+            "GRSE.NS"
+        ],
+        "Filter 3": [
+            "POLYCAB.NS",
+            "TI.NS",
+            "FIEMIND.NS",
+            "SCHNEIDER.NS",
+            "JINDALSTEL.NS",
+            "GRSE.NS"
+        ]
+    }
+}

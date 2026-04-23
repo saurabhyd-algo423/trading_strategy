@@ -1,0 +1,16 @@
+{
+  "Initial Capital": "12,000.00",
+  "Final Capital": "166,850.14",
+  "Total Return (%)": 1290.42,
+  "CAGR / Annualized Return (%)": 25.05,
+  "Annualized Volatility (%)": 21.89,
+  "Downside Volatility (%)": 14.34,
+  "Max Drawdown (%)": 51.85,
+  "Calmar Ratio": 0.48,
+  "Sharpe Ratio": 1.14,
+  "Sortino Ratio": 1.75,
+  "Trading Days": 2903,
+  "Years Simulated": 11.78,
+  "Start Date": "2014-07-01",
+  "End Date": "2026-04-10"
+}

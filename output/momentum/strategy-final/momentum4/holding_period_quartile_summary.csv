@@ -1,0 +1,5 @@
+Holding_Period_Bucket,Stocks_Count,Start_Holding_Days,End_Holding_Days,Avg_Holding_Days,Avg_Return_Pct
+Q1 (Shortest Holding),33,58.0,96.1,74.9030303030303,-10.1
+Q2,33,102.2,272.3,171.96363636363637,0.2836363636363631
+Q3,33,273.8,425.0,363.1515151515151,53.9
+Q4 (Longest Holding),31,429.4,2769.3,959.4225806451612,131.19870967741934

@@ -1,0 +1,20 @@
+{
+  "Initial Capital": "\u20b912,000.00",
+  "Final Capital": "\u20b9157,122.81",
+  "Total Return (%)": 1209.36,
+  "CAGR / Annualized Return (%)": 24.41,
+  "Annualized Volatility (%)": 22.19,
+  "Downside Volatility (%)": 14.47,
+  "Max Drawdown (%)": 51.85,
+  "Calmar Ratio": 0.47,
+  "Sharpe Ratio": 1.1,
+  "Sortino Ratio": 1.69,
+  "accuracy": 0.5583878746124699,
+  "avg_profit": 0.009567494631009468,
+  "avg_loss": -0.010090314197591762,
+  "gain_loss_ratio": 0.9481859973491138,
+  "Trading Days": 2903,
+  "Years Simulated": 11.78,
+  "Start Date": "2014-07-01",
+  "End Date": "2026-04-10"
+}

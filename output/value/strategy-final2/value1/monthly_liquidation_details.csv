@@ -1,0 +1,211 @@
+Month,Date,Stock,Liquidated_Qty,Liquidated_Amount,Reason,Remaining_Qty,Portfolio_Value_After
+Aug 2014,2014-08-28,ATUL.NS,0.187319,254.12,Not in good list (full),0.0,793.07
+Dec 2014,2014-12-31,KAJARIACER.NS,0.555556,164.69,Not in good list (full),0.0,5523.8
+Jan 2015,2015-01-30,WIPRO.NS,1.651596,187.83,Not in good list (full),0.0,6750.86
+Feb 2015,2015-02-27,ENGINERSIN.NS,2.54459,263.37,Not in good list (full),0.0,7875.46
+Mar 2015,2015-03-31,IGL.NS,13.160897,552.03,Not in good list (full),0.0,9012.74
+Apr 2015,2015-04-30,BALKRISIND.NS,3.033544,1177.09,Not in good list (partial to meet limit),1.252042,9948.0
+May 2015,2015-05-29,BALKRISIND.NS,1.252042,456.68,Not in good list (full within limit),0.0,11274.31
+May 2015,2015-05-29,AJANTPHARM.NS,0.712253,750.07,Not in good list (partial to meet limit),2.46784,11274.31
+Jun 2015,2015-06-30,ATUL.NS,0.314686,376.11,Not in good list (full within limit),0.0,11893.81
+Jun 2015,2015-06-30,AJANTPHARM.NS,0.761044,796.05,Not in good list (partial to meet limit),1.706796,11893.81
+Jul 2015,2015-07-31,ASTRAL.NS,5.55262,928.76,Not in good list (full within limit),0.0,14204.34
+Jul 2015,2015-07-31,BERGEPAINT.NS,2.795205,362.54,Not in good list (partial to meet limit),2.941924,14204.34
+Aug 2015,2015-08-31,BERGEPAINT.NS,2.941924,372.12,Not in good list (full within limit),0.0,14089.1
+Aug 2015,2015-08-31,ECLERX.NS,0.32381,270.78,Not in good list (full within limit),0.0,14089.1
+Aug 2015,2015-08-31,TORNTPHARM.NS,0.79394,637.93,Not in good list (partial to meet limit),3.679921,14089.1
+Sep 2015,2015-09-30,TORNTPHARM.NS,1.643722,1234.64,Not in good list (partial to meet limit),2.036199,13581.04
+Oct 2015,2015-10-30,TORNTPHARM.NS,1.695025,1306.14,Not in good list (partial to meet limit),0.341174,14367.58
+Nov 2015,2015-11-30,KKCL.NS,3.345023,1287.83,Not in good list (partial to meet limit),0.732515,14166.17
+Dec 2015,2015-12-31,ECLERX.NS,0.236673,224.37,Not in good list (full within limit),0.0,14429.39
+Dec 2015,2015-12-31,AJANTPHARM.NS,1.224776,1087.4,Not in good list (partial to meet limit),0.48202,14429.39
+Jan 2016,2016-01-29,AJANTPHARM.NS,0.48202,409.38,Not in good list (full),0.0,13059.3
+Jan 2016,2016-01-29,KKCL.NS,0.732515,303.03,Not in good list (full),0.0,13059.3
+Jan 2016,2016-01-29,INFY.NS,0.749066,436.29,Not in good list (full),0.0,13059.3
+Feb 2016,2016-02-29,ZYDUSWELL.NS,8.295355,1071.01,Not in good list (partial to meet limit),3.434916,11781.15
+Mar 2016,2016-03-31,ZYDUSWELL.NS,3.434916,501.43,Not in good list (full),0.0,13518.36
+Mar 2016,2016-03-31,ECLERX.NS,0.200886,173.99,Not in good list (full),0.0,13518.36
+Apr 2016,2016-04-29,IGL.NS,21.505459,1232.91,Not in good list (partial to meet limit),0.654395,13561.99
+Jun 2016,2016-06-30,IGL.NS,0.654395,41.07,Not in good list (full),0.0,15548.54
+Jul 2016,2016-07-29,JUBLFOOD.NS,3.621926,443.29,Not in good list (full),0.0,16665.04
+Aug 2016,2016-08-31,IGL.NS,1.200053,96.14,Not in good list (full),0.0,17870.56
+Sep 2016,2016-09-30,ATUL.NS,0.008338,19.05,Not in good list (full),0.0,17555.78
+Oct 2016,2016-10-28,RATNAMANI.NS,3.368686,1446.18,Not in good list (partial to meet limit),4.269948,15907.95
+Nov 2016,2016-11-30,INFY.NS,0.685597,334.42,Not in good list (full within limit),0.0,15281.77
+Nov 2016,2016-11-30,RATNAMANI.NS,2.774665,1054.83,Not in good list (partial to meet limit),1.495284,15281.77
+Dec 2016,2016-12-30,RATNAMANI.NS,1.495284,677.31,Not in good list (full),0.0,15152.34
+Dec 2016,2016-12-30,HINDZINC.NS,0.014059,3.59,Not in good list (full),0.0,15152.34
+Jan 2017,2017-01-31,VSTIND.NS,0.015449,3.38,Not in good list (full),0.0,17220.33
+Jun 2017,2017-06-30,VAKRANGEE.NS,5.054214,1014.42,Not in good list (full),0.0,18844.94
+Jul 2017,2017-07-31,BALMLAWRIE.NS,0.003598,0.6,Not in good list (full within limit),0.0,19869.71
+Jul 2017,2017-07-31,VGUARD.NS,6.172086,1099.56,Not in good list (full within limit),0.0,19869.71
+Jul 2017,2017-07-31,KAJARIACER.NS,1.043641,706.18,Not in good list (partial to meet limit),1.85382,19869.71
+Aug 2017,2017-08-31,KAJARIACER.NS,1.85382,1301.1,Not in good list (full within limit),0.0,20260.76
+Aug 2017,2017-08-31,IGL.NS,4.23945,540.78,Not in good list (partial to meet limit),7.285969,20260.76
+Sep 2017,2017-09-29,IGL.NS,7.285969,1072.42,Not in good list (full),0.0,21206.48
+Dec 2017,2017-12-29,WIPRO.NS,1.607798,189.47,Not in good list (full),0.0,24444.94
+Jan 2018,2018-01-31,RECLTD.NS,5.858808,683.28,Not in good list (full),0.0,23371.85
+Mar 2018,2018-03-28,GREENPLY.NS,3.315925,1002.65,Not in good list (full),0.0,22504.62
+May 2018,2018-05-31,BALKRISIND.NS,2.004264,2274.04,Not in good list (partial to meet limit),0.557491,25014.42
+Jun 2018,2018-06-29,HINDUNILVR.NS,0.360556,591.73,Not in good list (full),0.0,26907.09
+Jul 2018,2018-07-31,GREENPLY.NS,1.242435,262.91,Not in good list (full within limit),0.0,26484.93
+Jul 2018,2018-07-31,TORNTPHARM.NS,1.328433,1015.32,Not in good list (full within limit),0.0,26484.93
+Jul 2018,2018-07-31,BAJAJ-AUTO.NS,0.134765,363.87,Not in good list (full within limit),0.0,26484.93
+Jul 2018,2018-07-31,BALKRISIND.NS,0.557491,673.37,Not in good list (full within limit),0.0,26484.93
+Jul 2018,2018-07-31,ZENSARTECH.NS,0.373223,92.25,Not in good list (partial to meet limit),27.670623,26484.93
+Aug 2018,2018-08-31,ZENSARTECH.NS,8.379588,2803.73,Not in good list (partial to meet limit),19.291035,30840.99
+Sep 2018,2018-09-28,ZENSARTECH.NS,8.245886,2329.87,Not in good list (partial to meet limit),11.045149,25628.62
+Nov 2018,2018-11-30,RELAXO.NS,3.223174,1211.19,Not in good list (full within limit),0.0,27159.75
+Nov 2018,2018-11-30,VINATIORGA.NS,1.73405,1257.88,Not in good list (partial to meet limit),4.216965,27159.75
+Dec 2018,2018-12-31,PERSISTENT.NS,0.250387,77.95,Not in good list (full within limit),0.0,28272.71
+Dec 2018,2018-12-31,VINATIORGA.NS,3.014751,2492.29,Not in good list (partial to meet limit),1.202214,28272.71
+Jan 2019,2019-01-31,VINATIORGA.NS,1.202214,949.0,Not in good list (full),0.0,29010.2
+Jan 2019,2019-01-31,VMART.NS,1.298393,826.64,Not in good list (full),0.0,29010.2
+Feb 2019,2019-02-28,BRITANNIA.NS,0.520356,1590.68,Not in good list (full),0.0,29151.04
+Apr 2019,2019-04-30,AVANTIFEED.NS,3.338176,1210.09,Not in good list (full within limit),0.0,31732.45
+Apr 2019,2019-04-30,PCJEWELLER.NS,41.694095,496.16,Not in good list (full within limit),0.0,31732.45
+Apr 2019,2019-04-30,CHOLAFIN.NS,3.3237,923.19,Not in good list (full within limit),0.0,31732.45
+Apr 2019,2019-04-30,TVSSRICHAK.NS,0.091173,198.04,Not in good list (full within limit),0.0,31732.45
+Apr 2019,2019-04-30,ZYDUSWELL.NS,0.218963,57.29,Not in good list (partial to meet limit),1.856359,31732.45
+May 2019,2019-05-31,AUROPHARMA.NS,0.606796,408.01,Not in good list (full within limit),0.0,33824.2
+May 2019,2019-05-31,DIVISLAB.NS,0.278997,444.25,Not in good list (full within limit),0.0,33824.2
+May 2019,2019-05-31,ASIANPAINT.NS,0.322087,453.27,Not in good list (full within limit),0.0,33824.2
+May 2019,2019-05-31,ATUL.NS,0.135317,547.57,Not in good list (full within limit),0.0,33824.2
+May 2019,2019-05-31,AARTIIND.NS,2.690119,1221.83,Not in good list (partial to meet limit),4.240443,33824.2
+Jun 2019,2019-06-28,AARTIIND.NS,4.240443,1832.11,Not in good list (full),0.0,35032.56
+Jun 2019,2019-06-28,WIPRO.NS,3.490468,489.54,Not in good list (full),0.0,35032.56
+Jul 2019,2019-07-31,PCJEWELLER.NS,44.994548,154.78,Not in good list (full within limit),0.0,30943.74
+Jul 2019,2019-07-31,ZENSARTECH.NS,12.619445,2658.29,Not in good list (partial to meet limit),3.351196,30943.74
+Aug 2019,2019-08-30,ZENSARTECH.NS,3.351196,737.1,Not in good list (full within limit),0.0,31709.23
+Aug 2019,2019-08-30,TCS.NS,0.949532,2145.56,Not in good list (partial to meet limit),0.174257,31709.23
+Sep 2019,2019-09-30,TCS.NS,0.174257,365.82,Not in good list (full within limit),0.0,36239.59
+Sep 2019,2019-09-30,APLLTD.NS,1.666894,849.12,Not in good list (full within limit),0.0,36239.59
+Sep 2019,2019-09-30,INFY.NS,2.581238,2079.57,Not in good list (partial to meet limit),0.787604,36239.59
+Oct 2019,2019-10-31,INFY.NS,0.787604,539.98,Not in good list (full),0.0,38250.57
+Oct 2019,2019-10-31,ZYDUSWELL.NS,1.856359,633.06,Not in good list (full),0.0,38250.57
+Oct 2019,2019-10-31,VINATIORGA.NS,0.531126,575.57,Not in good list (full),0.0,38250.57
+Nov 2019,2019-11-29,WIPRO.NS,4.329468,514.56,Not in good list (full),0.0,39327.27
+Nov 2019,2019-11-29,GULFOILLUB.NS,0.983578,787.06,Not in good list (full),0.0,39327.27
+Jan 2020,2020-01-31,VSTIND.NS,7.539221,3048.9,Not in good list (full),0.0,40507.16
+Feb 2020,2020-02-28,VINATIORGA.NS,0.517727,486.53,Not in good list (full),0.0,42569.01
+Apr 2020,2020-04-30,VSTIND.NS,0.213079,56.42,Not in good list (full within limit),0.0,25106.56
+Apr 2020,2020-04-30,TCS.NS,0.234429,472.25,Not in good list (full within limit),0.0,25106.56
+Apr 2020,2020-04-30,IGL.NS,7.35863,1753.75,Not in good list (partial to meet limit),11.270518,25106.56
+May 2020,2020-05-29,VINATIORGA.NS,0.473992,481.86,Not in good list (full within limit),0.0,23250.95
+May 2020,2020-05-29,IGL.NS,6.913206,1631.86,Not in good list (partial to meet limit),4.357313,23250.95
+Jun 2020,2020-06-30,IGL.NS,4.357313,963.62,Not in good list (full),0.0,29489.71
+Jun 2020,2020-06-30,APLLTD.NS,1.181037,1078.05,Not in good list (full),0.0,29489.71
+Jul 2020,2020-07-30,VMART.NS,1.855566,829.83,Not in good list (full),0.0,32891.37
+Jul 2020,2020-07-30,HINDPETRO.NS,3.502877,520.88,Not in good list (full),0.0,32891.37
+Jul 2020,2020-07-30,BPCL.NS,4.434916,929.34,Not in good list (full),0.0,32891.37
+Jul 2020,2020-07-30,CHOLAFIN.NS,0.992792,212.66,Not in good list (full),0.0,32891.37
+Nov 2020,2020-11-27,TATAELXSI.NS,0.43687,693.86,Not in good list (full),0.0,49004.98
+Feb 2021,2021-02-26,APLLTD.NS,0.578043,532.23,Not in good list (full),0.0,53634.79
+May 2021,2021-05-31,ALKYLAMINE.NS,0.624202,2289.54,Not in good list (full),0.0,59292.87
+May 2021,2021-05-31,AUROPHARMA.NS,0.096267,96.07,Not in good list (full),0.0,59292.87
+Jun 2021,2021-06-30,AJANTPHARM.NS,1.675428,2399.99,Not in good list (full),0.0,62710.87
+Jun 2021,2021-06-30,PERSISTENT.NS,0.689412,1013.04,Not in good list (full),0.0,62710.87
+Jul 2021,2021-07-30,CAPLIPOINT.NS,0.193321,171.03,Not in good list (full within limit),0.0,63865.82
+Jul 2021,2021-07-30,BAJFINANCE.NS,9.047627,5634.95,Not in good list (partial to meet limit),55.349064,63865.82
+Aug 2021,2021-08-31,ALKYLAMINE.NS,0.261284,1117.55,Not in good list (full within limit),0.0,71362.39
+Aug 2021,2021-08-31,BAJFINANCE.NS,7.136608,5369.94,Not in good list (partial to meet limit),48.212457,71362.39
+Sep 2021,2021-09-30,TECHM.NS,4.760244,6571.99,Not in good list (partial to meet limit),0.828062,72291.93
+Oct 2021,2021-10-29,TECHM.NS,0.828062,1223.75,Not in good list (full within limit),0.0,71211.46
+Oct 2021,2021-10-29,BAJFINANCE.NS,7.094426,5250.02,Not in good list (partial to meet limit),41.11803,71211.46
+Nov 2021,2021-11-30,BAJFINANCE.NS,9.895328,6924.01,Not in good list (partial to meet limit),31.222702,76164.09
+Dec 2021,2021-12-31,BAJFINANCE.NS,13.820505,9642.98,Not in good list (partial to meet limit),17.402197,106072.79
+Jan 2022,2022-01-31,THYROCARE.NS,2.204079,713.64,Not in good list (full within limit),0.0,96381.23
+Jan 2022,2022-01-31,BAJFINANCE.NS,11.497141,8048.29,Not in good list (partial to meet limit),5.905056,96381.23
+Feb 2022,2022-02-28,BAJFINANCE.NS,5.905056,4134.9,Not in good list (full),0.0,80055.11
+Mar 2022,2022-03-31,DHANUKA.NS,0.16166,116.02,Not in good list (full),0.0,109317.87
+Apr 2022,2022-04-29,BHARATRAS.NS,0.220689,765.79,Not in good list (full),0.0,105408.21
+Apr 2022,2022-04-29,SHARDACROP.NS,1.161651,722.72,Not in good list (full),0.0,105408.21
+Jul 2022,2022-07-29,STLTECH.NS,1.706079,242.01,Not in good list (full within limit),0.0,86643.39
+Jul 2022,2022-07-29,ALKYLAMINE.NS,0.865276,2535.04,Not in good list (full within limit),0.0,86643.39
+Jul 2022,2022-07-29,SUDARSCHEM.NS,2.98825,1411.05,Not in good list (full within limit),0.0,86643.39
+Jul 2022,2022-07-29,KPRMILL.NS,6.269347,3688.57,Not in good list (partial to meet limit),13.089047,86643.39
+Aug 2022,2022-08-30,KPRMILL.NS,12.716162,7686.92,Not in good list (partial to meet limit),0.372885,84556.12
+Sep 2022,2022-09-30,AVANTIFEED.NS,3.445243,1613.58,Not in good list (full),0.0,84786.99
+Sep 2022,2022-09-30,AARTIIND.NS,2.291769,1707.48,Not in good list (full),0.0,84786.99
+Sep 2022,2022-09-30,KPRMILL.NS,0.372885,199.87,Not in good list (full),0.0,84786.99
+Sep 2022,2022-09-30,KEI.NS,1.480333,2139.53,Not in good list (full),0.0,84786.99
+Nov 2022,2022-11-30,BAJAJ-AUTO.NS,0.265749,996.75,Not in good list (full),0.0,89217.86
+Dec 2022,2022-12-30,IGL.NS,1.894007,392.01,Not in good list (full),0.0,82073.29
+Dec 2022,2022-12-30,SHARDACROP.NS,6.374115,3282.35,Not in good list (full),0.0,82073.29
+Dec 2022,2022-12-30,GPTINFRA.NS,5.117421,139.32,Not in good list (full),0.0,82073.29
+Jan 2023,2023-01-31,TI.NS,54.090155,6271.75,Not in good list (full),0.0,78793.39
+Jan 2023,2023-01-31,COCHINSHIP.NS,1.897355,485.68,Not in good list (full),0.0,78793.39
+Feb 2023,2023-02-28,HINDUNILVR.NS,0.440212,1083.21,Not in good list (full),0.0,78009.18
+Mar 2023,2023-03-31,TI.NS,1.617693,182.31,Not in good list (full),0.0,77937.29
+Apr 2023,2023-04-28,SALASAR.NS,23.215803,201.98,Not in good list (full),0.0,85913.2
+Apr 2023,2023-04-28,BANCOINDIA.NS,0.264684,34.18,Not in good list (full),0.0,85913.2
+May 2023,2023-05-31,PITTIENG.NS,5.476195,1934.47,Not in good list (full),0.0,87305.98
+Jul 2023,2023-07-31,EKC.NS,14.119801,1664.72,Not in good list (full within limit),0.0,92278.24
+Jul 2023,2023-07-31,BALRAMCHIN.NS,8.082207,3257.13,Not in good list (full within limit),0.0,92278.24
+Jul 2023,2023-07-31,BEL.NS,16.483961,2154.45,Not in good list (full within limit),0.0,92278.24
+Jul 2023,2023-07-31,ASAL.NS,3.203084,1312.62,Not in good list (partial to meet limit),77.576737,92278.24
+Aug 2023,2023-08-31,ASAL.NS,21.043842,8696.37,Not in good list (partial to meet limit),56.532895,95660.05
+Sep 2023,2023-09-29,ASAL.NS,21.216116,8944.71,Not in good list (partial to meet limit),35.316779,98391.86
+Oct 2023,2023-10-31,ASAL.NS,22.893972,8893.16,Not in good list (partial to meet limit),12.422807,97824.8
+Nov 2023,2023-11-30,UGARSUGAR.NS,22.25149,2004.86,Not in good list (full within limit),0.0,109451.6
+Nov 2023,2023-11-30,REFEX.NS,43.731223,4634.2,Not in good list (full within limit),0.0,109451.6
+Nov 2023,2023-11-30,KAMDHENU.NS,114.808886,3311.09,Not in good list (partial to meet limit),21.631625,109451.6
+Dec 2023,2023-12-29,ASAL.NS,12.422807,5211.37,Not in good list (full within limit),0.0,116602.8
+Dec 2023,2023-12-29,GOKEX.NS,2.083102,1720.43,Not in good list (full within limit),0.0,116602.8
+Dec 2023,2023-12-29,PERSISTENT.NS,0.517521,1912.09,Not in good list (full within limit),0.0,116602.8
+Dec 2023,2023-12-29,NEWGEN.NS,2.24851,1756.37,Not in good list (partial to meet limit),0.650717,116602.8
+Jan 2024,2024-01-31,GHCL.NS,4.268974,2495.43,Not in good list (full within limit),0.0,123991.12
+Jan 2024,2024-01-31,MOLDTECH.NS,6.944611,1878.52,Not in good list (full within limit),0.0,123991.12
+Jan 2024,2024-01-31,GOKULAGRO.NS,0.709173,44.59,Not in good list (full within limit),0.0,123991.12
+Jan 2024,2024-01-31,GNA.NS,0.164878,80.48,Not in good list (full within limit),0.0,123991.12
+Jan 2024,2024-01-31,TI.NS,27.752134,6772.91,Not in good list (partial to meet limit),10.885859,123991.12
+Feb 2024,2024-02-29,TI.NS,10.885859,2342.64,Not in good list (full within limit),0.0,122516.46
+Feb 2024,2024-02-29,NEWGEN.NS,3.01358,2558.98,Not in good list (full within limit),0.0,122516.46
+Feb 2024,2024-02-29,REFEX.NS,16.506672,2136.29,Not in good list (full within limit),0.0,122516.46
+Feb 2024,2024-02-29,HISARMETAL.NS,1.166244,226.89,Not in good list (full within limit),0.0,122516.46
+Feb 2024,2024-02-29,GPTINFRA.NS,25.238701,2362.97,Not in good list (full within limit),0.0,122516.46
+Feb 2024,2024-02-29,BANCOINDIA.NS,4.551523,1510.08,Not in good list (partial to meet limit),15.93118,122516.46
+Mar 2024,2024-03-28,BANCOINDIA.NS,15.93118,4755.06,Not in good list (full within limit),0.0,108810.53
+Mar 2024,2024-03-28,ECLERX.NS,2.169901,5136.81,Not in good list (partial to meet limit),4.122588,108810.53
+Apr 2024,2024-04-30,OFSS.NS,0.213831,1624.82,Not in good list (full within limit),0.0,115012.04
+Apr 2024,2024-04-30,KAMDHENU.NS,21.631625,1220.35,Not in good list (full within limit),0.0,115012.04
+Apr 2024,2024-04-30,PRECWIRE.NS,14.926948,2146.5,Not in good list (full within limit),0.0,115012.04
+Apr 2024,2024-04-30,SALASAR.NS,265.241394,5463.97,Not in good list (partial to meet limit),17.096151,115012.04
+May 2024,2024-05-31,NEWGEN.NS,2.193475,2004.18,Not in good list (full within limit),0.0,111568.38
+May 2024,2024-05-31,ECLERX.NS,3.709559,8138.4,Not in good list (partial to meet limit),0.413029,111568.38
+Jun 2024,2024-06-28,GARFIBRES.NS,4.357511,3351.93,Not in good list (full),0.0,131453.41
+Jun 2024,2024-06-28,SALASAR.NS,17.096151,311.32,Not in good list (full),0.0,131453.41
+Jun 2024,2024-06-28,ENGINERSIN.NS,15.479066,3882.77,Not in good list (full),0.0,131453.41
+Jun 2024,2024-06-28,OFSS.NS,0.217832,2152.67,Not in good list (full),0.0,131453.41
+Jul 2024,2024-07-31,POLYPLEX.NS,0.485485,576.93,Not in good list (full within limit),0.0,137116.34
+Jul 2024,2024-07-31,AARTIDRUGS.NS,1.632404,833.02,Not in good list (full within limit),0.0,137116.34
+Jul 2024,2024-07-31,DCMSHRIRAM.NS,8.932183,9464.54,Not in good list (full within limit),0.0,137116.34
+Jul 2024,2024-07-31,HAL.NS,0.323113,1590.64,Not in good list (partial to meet limit),2.978798,137116.34
+Aug 2024,2024-08-30,HAL.NS,2.715276,12707.36,Not in good list (partial to meet limit),0.263521,139780.94
+Sep 2024,2024-09-30,HAL.NS,0.263521,1164.93,Not in good list (full within limit),0.0,142965.61
+Sep 2024,2024-09-30,SONATSOFTW.NS,18.749606,11831.94,Not in good list (partial to meet limit),9.413547,142965.61
+Oct 2024,2024-10-31,GULFOILLUB.NS,1.465345,1733.8,Not in good list (full),0.0,145829.42
+Nov 2024,2024-11-29,SONATSOFTW.NS,9.413547,5891.94,Not in good list (full),0.0,145913.38
+Nov 2024,2024-11-29,APARINDS.NS,0.485441,4903.6,Not in good list (full),0.0,145913.38
+Dec 2024,2024-12-31,ECLERX.NS,0.413029,1438.75,Not in good list (full),0.0,149916.55
+Dec 2024,2024-12-31,HAL.NS,0.492842,2059.26,Not in good list (full),0.0,149916.55
+Jan 2025,2025-01-31,GOKEX.NS,6.302368,5969.6,Not in good list (full),0.0,131230.95
+Mar 2025,2025-03-31,GREENPLY.NS,5.38458,1541.07,Not in good list (full),0.0,123084.59
+Apr 2025,2025-04-30,NMDC.NS,18.101319,1172.78,Not in good list (full within limit),0.0,125091.61
+Apr 2025,2025-04-30,WIPRO.NS,12.624047,3048.71,Not in good list (full within limit),0.0,125091.61
+Apr 2025,2025-04-30,POWERGRID.NS,1.778258,546.73,Not in good list (full within limit),0.0,125091.61
+Apr 2025,2025-04-30,FCL.NS,237.178107,5637.49,Not in good list (full within limit),0.0,125091.61
+Apr 2025,2025-04-30,MUTHOOTFIN.NS,0.119668,259.67,Not in good list (full within limit),0.0,125091.61
+Apr 2025,2025-04-30,FACT.NS,0.922505,706.59,Not in good list (partial to meet limit),41.036115,125091.61
+May 2025,2025-05-30,GRAVITA.NS,1.07457,1966.36,Not in good list (full),0.0,150449.41
+May 2025,2025-05-30,GRSE.NS,1.120667,3365.59,Not in good list (full),0.0,150449.41
+May 2025,2025-05-30,DIVISLAB.NS,0.341519,2258.12,Not in good list (full),0.0,150449.41
+Jun 2025,2025-06-30,AVANTIFEED.NS,3.969291,2909.49,Not in good list (full),0.0,162458.26
+Jul 2025,2025-07-31,HEROMOTOCO.NS,0.050254,214.12,Not in good list (full within limit),0.0,151238.09
+Jul 2025,2025-07-31,GRANULES.NS,6.439249,3058.0,Not in good list (full within limit),0.0,151238.09
+Jul 2025,2025-07-31,PCBL.NS,7.115365,2803.45,Not in good list (full within limit),0.0,151238.09
+Jul 2025,2025-07-31,KSCL.NS,1.478368,1640.84,Not in good list (full within limit),0.0,151238.09
+Jul 2025,2025-07-31,FACT.NS,6.413807,6032.51,Not in good list (partial to meet limit),34.622308,151238.09
+Aug 2025,2025-08-29,COROMANDEL.NS,1.556648,3594.46,Not in good list (full within limit),0.0,156766.01
+Aug 2025,2025-08-29,FACT.NS,11.522325,10657.0,Not in good list (partial to meet limit),23.099983,156766.01
+Sep 2025,2025-09-30,FACT.NS,15.959903,14250.6,Not in good list (partial to meet limit),7.140079,156756.58
