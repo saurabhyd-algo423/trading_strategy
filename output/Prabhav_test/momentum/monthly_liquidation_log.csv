@@ -1,0 +1,132 @@
+Month,Date,Max_Liquidation_Target,Total_Holdings,Loss_Stocks_Count,Protected_Stocks_Count,Eligible_Stocks_Count,Filter1_Liquidated,Filter1_Reason,Filter2_Liquidated,Filter2_Reason,Filter3_Liquidated,Filter3_Reason,Final_Liquidated,Final_Reason,Profit_Margin_Liquidated,Profit_Margin_Reason,Total_Liquidated,Achievement_Percent
+Jun 2015,2015-06-01,1052.72,18,7,2,5,1052.72,,0.0,,0.0,,0.0,,0.0,,1052.72,100.0
+Jul 2015,2015-07-01,1051.1,17,4,0,4,823.05,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,0.0,13 stocks <1yr holding,228.05,,1051.1,100.0
+Aug 2015,2015-08-03,1146.57,12,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,1146.57,,0.0,,1146.57,100.0
+Sep 2015,2015-09-01,1207.51,12,2,0,2,1207.51,,0.0,,0.0,,0.0,,0.0,,1207.51,100.0
+Oct 2015,2015-10-01,1114.39,11,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,178.51,,935.88,,0.0,,1114.39,100.0
+Nov 2015,2015-11-02,1228.43,11,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,1228.43,,0.0,,1228.43,100.0
+Dec 2015,2015-12-01,1242.48,10,2,1,1,423.99,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,818.49,,0.0,,1242.48,100.0
+Jan 2016,2016-01-01,1304.43,11,2,1,1,371.49,,0.0,1 loss-making stocks protected by ROE_ROCE filter,204.73,,728.21,,0.0,,1304.43,100.0
+Feb 2016,2016-02-01,1382.0,9,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,369.4,,1012.6,,0.0,,1382.0,100.0
+Mar 2016,2016-03-01,1341.46,8,2,2,0,0.0,2 loss-making stocks protected by Momentum filter,0.0,2 loss-making stocks protected by ROE_ROCE filter,397.78,,943.68,,0.0,,1341.46,100.0
+Apr 2016,2016-04-01,1337.31,11,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,1337.31,,0.0,,1337.31,100.0
+May 2016,2016-05-02,1481.83,14,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,1481.83,,0.0,,1481.83,100.0
+Jun 2016,2016-06-01,1561.68,15,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,1561.68,,0.0,,1561.68,100.0
+Jul 2016,2016-07-01,1642.77,16,1,0,1,637.49,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,1005.28,,0.0,,1642.77,100.0
+Aug 2016,2016-08-01,1729.28,16,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,1729.28,,0.0,,1729.28,100.0
+Sep 2016,2016-09-01,2083.56,17,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,2083.56,,0.0,,2083.56,100.0
+Oct 2016,2016-10-03,2108.79,16,1,0,1,252.01,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,1856.78,,0.0,,2108.79,100.0
+Nov 2016,2016-11-01,2172.26,16,2,2,0,0.0,2 loss-making stocks protected by Momentum filter,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,2172.26,,0.0,,2172.26,100.0
+Dec 2016,2016-12-01,2203.79,16,5,3,2,759.89,,0.0,3 loss-making stocks protected by ROE_ROCE filter,0.0,3 loss-making stocks protected by Filter_2_50% filter,1443.9,,0.0,,2203.79,100.0
+Jan 2017,2017-01-02,1997.05,17,7,4,3,1032.46,,0.0,4 loss-making stocks protected by ROE_ROCE filter,0.0,3 loss-making stocks protected by Filter_2_50% filter,964.59,,0.0,,1997.05,100.0
+Feb 2017,2017-02-01,1940.55,15,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,1940.55,,0.0,,1940.55,100.0
+Mar 2017,2017-03-01,2216.51,16,2,1,1,322.62,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,1893.89,,0.0,,2216.51,100.0
+Apr 2017,2017-04-03,2269.77,15,1,0,1,322.39,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,1947.38,,0.0,,2269.77,100.0
+May 2017,2017-05-02,2509.54,13,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,2509.54,,0.0,,2509.54,100.0
+Jun 2017,2017-06-01,2706.12,13,1,0,1,185.94,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,2520.18,,0.0,,2706.12,100.0
+Jul 2017,2017-07-03,2911.62,12,1,0,1,1136.64,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,1774.98,,0.0,,2911.62,100.0
+Aug 2017,2017-08-01,3040.48,12,2,1,1,469.62,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,2570.86,,0.0,,3040.48,100.0
+Sep 2017,2017-09-01,3385.79,12,2,0,2,2251.55,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,1134.25,,0.0,,3385.79,100.0
+Oct 2017,2017-10-03,3417.5,11,2,1,1,499.7,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,2917.8,,0.0,,3417.5,100.0
+Nov 2017,2017-11-01,3451.2,11,2,1,1,1108.59,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,2342.61,,0.0,,3451.2,100.0
+Dec 2017,2017-12-01,3391.99,11,3,2,1,1014.5,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,2377.49,,0.0,,3391.99,100.0
+Jan 2018,2018-01-01,3238.4,13,3,1,2,1098.93,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,2139.48,,0.0,,3238.4,100.0
+Feb 2018,2018-02-01,3344.73,14,5,0,5,3079.34,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,265.4,,0.0,,3344.73,100.0
+Mar 2018,2018-03-01,3295.47,12,4,2,2,1122.04,,0.0,2 loss-making stocks protected by ROE_ROCE filter,652.91,,1520.53,,0.0,,3295.47,100.0
+Apr 2018,2018-04-02,3199.43,10,5,4,1,3199.43,,0.0,,0.0,,0.0,,0.0,,3199.43,100.0
+May 2018,2018-05-02,3298.9,13,5,2,3,1509.6,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,1789.3,,0.0,,3298.9,100.0
+Jun 2018,2018-06-01,3459.0,11,4,2,2,2661.24,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,797.76,,0.0,,3459.0,100.0
+Jul 2018,2018-07-02,3531.02,10,7,6,1,997.24,,0.0,6 loss-making stocks protected by ROE_ROCE filter,1412.88,,1120.89,,0.0,,3531.02,100.0
+Aug 2018,2018-08-01,3688.53,10,6,0,6,3688.53,,0.0,,0.0,,0.0,,0.0,,3688.53,100.0
+Sep 2018,2018-09-03,4206.36,10,3,0,3,4206.36,,0.0,,0.0,,0.0,,0.0,,4206.36,100.0
+Oct 2018,2018-10-01,4238.19,10,7,5,2,792.72,,0.0,5 loss-making stocks protected by ROE_ROCE filter,0.0,5 loss-making stocks protected by Filter_2_50% filter,3445.47,,0.0,,4238.19,100.0
+Nov 2018,2018-11-01,3482.11,9,5,1,4,3482.11,,0.0,,0.0,,0.0,,0.0,,3482.11,100.0
+Dec 2018,2018-12-03,3737.72,11,4,1,3,1472.41,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,2265.31,,0.0,,3737.72,100.0
+Jan 2019,2019-01-01,3899.43,12,5,1,4,1754.57,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,2144.85,,0.0,,3899.43,100.0
+Feb 2019,2019-02-01,4047.94,11,5,1,4,3038.96,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,1008.98,,0.0,,4047.94,100.0
+Mar 2019,2019-03-01,4085.91,11,3,0,3,1247.38,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,2838.53,,0.0,,4085.91,100.0
+Apr 2019,2019-04-01,4030.75,11,2,1,1,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,4030.75,,0.0,,4030.75,100.0
+May 2019,2019-05-02,4474.8,13,4,1,3,3333.19,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,1141.62,,0.0,,4474.8,100.0
+Jun 2019,2019-06-03,4597.22,12,1,0,1,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,4597.22,,0.0,,4597.22,100.0
+Jul 2019,2019-07-01,5148.1,15,3,0,3,1979.8,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,3168.3,,0.0,,5148.1,100.0
+Aug 2019,2019-08-01,5336.66,13,6,3,3,5336.66,,0.0,,0.0,,0.0,,0.0,,5336.66,100.0
+Sep 2019,2019-09-03,4648.5,14,6,3,3,4648.5,,0.0,,0.0,,0.0,,0.0,,4648.5,100.0
+Oct 2019,2019-10-01,4661.28,13,2,0,2,3169.89,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,1491.39,,0.0,,4661.28,100.0
+Nov 2019,2019-11-01,5482.51,11,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,5482.51,,0.0,,5482.51,100.0
+Dec 2019,2019-12-02,5645.53,15,1,0,1,824.07,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,4821.45,,0.0,,5645.53,100.0
+Jan 2020,2020-01-01,5587.48,16,3,3,0,0.0,3 loss-making stocks protected by Momentum filter,0.0,3 loss-making stocks protected by ROE_ROCE filter,0.0,3 loss-making stocks protected by Filter_2_50% filter,5587.48,,0.0,,5587.48,100.0
+Feb 2020,2020-02-03,5892.94,19,4,0,4,5598.36,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,294.58,,0.0,,5892.94,100.0
+Mar 2020,2020-03-02,6159.2,17,4,2,2,1908.12,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,4251.09,,0.0,,6159.2,100.0
+Apr 2020,2020-04-01,6148.32,15,11,7,4,6148.32,,0.0,,0.0,,0.0,,0.0,,6148.32,100.0
+May 2020,2020-05-04,3649.53,13,5,4,1,515.49,,0.0,4 loss-making stocks protected by ROE_ROCE filter,1543.59,,1590.46,,0.0,,3649.53,100.0
+Jun 2020,2020-06-01,4003.74,10,2,2,0,0.0,2 loss-making stocks protected by Momentum filter,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,4003.74,,0.0,,4003.74,100.0
+Jul 2020,2020-07-01,4224.27,10,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,4224.27,,0.0,,4224.27,100.0
+Aug 2020,2020-08-03,4965.13,12,2,1,1,626.76,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,4338.37,,0.0,,4965.13,100.0
+Sep 2020,2020-09-01,5304.73,13,2,0,2,3924.21,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,1380.53,,0.0,,5304.73,100.0
+Oct 2020,2020-10-01,5831.11,12,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,5831.11,,0.0,,5831.11,100.0
+Nov 2020,2020-11-02,5881.93,13,3,2,1,747.42,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,5134.51,,0.0,,5881.93,100.0
+Dec 2020,2020-12-01,5689.3,14,2,1,1,1933.26,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,3756.04,,0.0,,5689.3,100.0
+Jan 2021,2021-01-01,7156.91,15,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,7156.91,,0.0,,7156.91,100.0
+Feb 2021,2021-02-01,7673.31,15,1,0,1,911.64,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,6761.67,,0.0,,7673.31,100.0
+Mar 2021,2021-03-01,7731.61,16,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,7731.61,,0.0,,7731.61,100.0
+Apr 2021,2021-04-01,8281.75,19,2,0,2,8281.75,,0.0,,0.0,,0.0,,0.0,,8281.75,100.0
+May 2021,2021-05-03,8511.82,19,1,0,1,1304.97,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,7206.84,,0.0,,8511.82,100.0
+Jun 2021,2021-06-01,9435.01,19,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,9435.01,,0.0,,9435.01,100.0
+Jul 2021,2021-07-01,9771.2,23,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,9771.2,,0.0,,9771.2,100.0
+Aug 2021,2021-08-02,10497.03,25,1,0,1,1417.26,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,9079.77,,0.0,,10497.03,100.0
+Sep 2021,2021-09-01,11462.42,27,3,0,3,6197.36,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,5265.06,,0.0,,11462.42,100.0
+Oct 2021,2021-10-01,11887.69,25,2,0,2,3459.64,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,8428.05,,0.0,,11887.69,100.0
+Nov 2021,2021-11-01,12328.04,23,2,2,0,0.0,2 loss-making stocks protected by Momentum filter,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,12328.04,,0.0,,12328.04,100.0
+Dec 2021,2021-12-01,12377.01,23,4,2,2,3156.42,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,9220.59,,0.0,,12377.01,100.0
+Jan 2022,2022-01-03,12416.79,22,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,12416.79,,0.0,,12416.79,100.0
+Feb 2022,2022-02-01,13123.42,22,3,2,1,1967.6,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,11155.82,,0.0,,13123.42,100.0
+Mar 2022,2022-03-02,13052.91,22,6,2,4,13052.91,,0.0,,0.0,,0.0,,0.0,,13052.91,100.0
+Apr 2022,2022-04-01,12259.95,22,3,1,2,4025.36,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,8234.59,,0.0,,12259.95,100.0
+May 2022,2022-05-02,13677.42,23,5,2,3,6113.34,,0.0,2 loss-making stocks protected by ROE_ROCE filter,5840.39,,1723.69,,0.0,,13677.42,100.0
+Jun 2022,2022-06-01,13524.63,23,9,2,7,13524.63,,0.0,,0.0,,0.0,,0.0,,13524.63,100.0
+Jul 2022,2022-07-01,12362.45,20,9,4,5,12362.45,,0.0,,0.0,,0.0,,0.0,,12362.45,100.0
+Aug 2022,2022-08-01,11123.98,20,3,2,1,823.27,,0.0,2 loss-making stocks protected by ROE_ROCE filter,10300.71,,0.0,,0.0,,11123.98,100.0
+Sep 2022,2022-09-01,13012.68,20,1,0,1,1751.92,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,11260.76,,0.0,,13012.68,100.0
+Oct 2022,2022-10-03,13228.87,20,4,2,2,13228.87,,0.0,,0.0,,0.0,,0.0,,13228.87,100.0
+Nov 2022,2022-11-01,12732.54,22,5,0,5,12732.54,,0.0,,0.0,,0.0,,0.0,,12732.54,100.0
+Dec 2022,2022-12-01,12895.93,21,3,0,3,6324.12,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,6571.81,,0.0,,12895.93,100.0
+Jan 2023,2023-01-02,12856.62,19,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,12856.62,,0.0,,12856.62,100.0
+Feb 2023,2023-02-01,13267.04,20,3,0,3,4853.16,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,8413.88,,0.0,,13267.04,100.0
+Mar 2023,2023-03-01,12852.01,19,2,0,2,7504.33,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,5347.69,,0.0,,12852.01,100.0
+Apr 2023,2023-04-03,12692.19,19,1,0,1,3836.71,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,8855.48,,0.0,,12692.19,100.0
+May 2023,2023-05-02,12575.82,23,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,12575.82,,0.0,,12575.82,100.0
+Jun 2023,2023-06-01,13924.7,24,3,0,3,13924.7,,0.0,,0.0,,0.0,,0.0,,13924.7,100.0
+Jul 2023,2023-07-03,14780.19,28,4,2,2,1071.91,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,13708.28,,0.0,,14780.19,100.0
+Aug 2023,2023-08-01,16124.75,29,3,0,3,6186.46,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,9938.29,,0.0,,16124.75,100.0
+Sep 2023,2023-09-01,17387.03,30,2,1,1,2511.94,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,14875.09,,0.0,,17387.03,100.0
+Oct 2023,2023-10-03,18012.49,29,4,1,3,14474.2,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,3538.29,,0.0,,18012.49,100.0
+Nov 2023,2023-11-01,18864.42,27,2,0,2,11320.35,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,7544.07,,0.0,,18864.42,100.0
+Dec 2023,2023-12-01,19214.8,27,1,0,1,4682.81,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,14531.99,,0.0,,19214.8,100.0
+Jan 2024,2024-01-01,20115.19,30,3,0,3,9044.4,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,11070.79,,0.0,,20115.19,100.0
+Feb 2024,2024-02-01,21154.23,28,3,1,2,8268.64,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,12885.59,,0.0,,21154.23,100.0
+Mar 2024,2024-03-01,21646.12,29,1,1,0,0.0,1 loss-making stocks protected by Momentum filter,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,21646.12,,0.0,,21646.12,100.0
+Apr 2024,2024-04-01,21929.84,28,2,0,2,9353.19,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,12576.66,,0.0,,21929.84,100.0
+May 2024,2024-05-02,22512.35,28,1,0,1,5295.04,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,17217.31,,0.0,,22512.35,100.0
+Jun 2024,2024-06-03,23666.27,28,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,23666.27,,0.0,,23666.27,100.0
+Jul 2024,2024-07-01,26166.9,29,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,26166.9,,0.0,,26166.9,100.0
+Aug 2024,2024-08-01,27352.03,28,1,0,1,4180.06,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,23171.97,,0.0,,27352.03,100.0
+Sep 2024,2024-09-02,27864.33,30,4,3,1,8633.71,,0.0,3 loss-making stocks protected by ROE_ROCE filter,4349.53,,14881.09,,0.0,,27864.33,100.0
+Oct 2024,2024-10-01,28240.87,31,5,2,3,17275.85,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,10965.02,,0.0,,28240.87,100.0
+Nov 2024,2024-11-04,29968.84,32,7,3,4,22123.39,,0.0,3 loss-making stocks protected by ROE_ROCE filter,0.0,3 loss-making stocks protected by Filter_2_50% filter,7845.46,,0.0,,29968.84,100.0
+Dec 2024,2024-12-02,27491.57,28,2,2,0,0.0,2 loss-making stocks protected by Momentum filter,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,27491.57,,0.0,,27491.57,100.0
+Jan 2025,2025-01-01,28452.31,31,6,2,4,14321.79,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,14130.52,,0.0,,28452.31,100.0
+Feb 2025,2025-02-03,28565.97,29,12,2,10,28565.97,,0.0,,0.0,,0.0,,0.0,,28565.97,100.0
+Mar 2025,2025-03-03,26768.28,26,16,7,9,26768.28,,0.0,,0.0,,0.0,,0.0,,26768.28,100.0
+Apr 2025,2025-04-01,24736.92,26,6,2,4,12612.68,,0.0,2 loss-making stocks protected by ROE_ROCE filter,0.0,2 loss-making stocks protected by Filter_2_50% filter,12124.25,,0.0,,24736.92,100.0
+May 2025,2025-05-02,27574.71,25,7,2,5,27574.71,,0.0,,0.0,,0.0,,0.0,,27574.71,100.0
+Jun 2025,2025-06-02,27077.18,24,3,0,3,9082.1,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,17995.08,,0.0,,27077.18,100.0
+Jul 2025,2025-07-01,29386.09,22,1,0,1,22239.71,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,7146.38,,0.0,,29386.09,100.0
+Aug 2025,2025-08-01,29734.09,25,7,3,4,13015.19,,0.0,3 loss-making stocks protected by ROE_ROCE filter,8891.53,,7827.37,,0.0,,29734.09,100.0
+Sep 2025,2025-09-01,28922.93,19,2,0,2,26732.82,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,2190.11,,0.0,,28922.93,100.0
+Oct 2025,2025-10-01,30677.74,20,0,0,0,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,0.0,No loss-making stocks in portfolio,30677.74,,0.0,,30677.74,100.0
+Nov 2025,2025-11-03,30950.61,22,1,0,1,18807.13,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,12143.47,,0.0,,30950.61,100.0
+Dec 2025,2025-12-01,32252.81,23,2,1,1,4666.6,,0.0,1 loss-making stocks protected by ROE_ROCE filter,0.0,1 loss-making stocks protected by Filter_2_50% filter,27586.21,,0.0,,32252.81,100.0
+Jan 2026,2026-01-01,31275.72,23,1,0,1,4661.04,,0.0,No eligible stocks found after ranking,0.0,No eligible stocks found after ranking,26614.68,,0.0,,31275.72,100.0
+Feb 2026,2026-02-02,31314.12,25,7,4,3,13088.93,,0.0,4 loss-making stocks protected by ROE_ROCE filter,0.0,4 loss-making stocks protected by Filter_2_50% filter,18225.19,,0.0,,31314.12,100.0
+Mar 2026,2026-03-02,29300.79,23,4,3,1,5081.5,,0.0,3 loss-making stocks protected by ROE_ROCE filter,0.0,3 loss-making stocks protected by Filter_2_50% filter,24219.29,,0.0,,29300.79,100.0
+Apr 2026,2026-04-01,30842.74,22,9,5,4,30842.74,,0.0,,0.0,,0.0,,0.0,,30842.74,100.0

@@ -18,7 +18,7 @@ import pandas_market_calendars as mcal
 # ======================================================================
 
 STOCKS_CSV = "data/prices.xlsx"
-FILTER_JSON = "data/momentum_original2014-2026.json"
+FILTER_JSON = "data/value_original2014-2026.json"
 FILTER_KEY = "Filter 3"
 
 START_MONTH = "Jul 2014"
@@ -38,7 +38,7 @@ PS_DATA_CSV = "data/all_stocks_revenue_data_20y.csv"
 # OUTPUT PATHS
 # ======================================================================
 
-RES = Path("output/Prabhav_test/momentum")
+RES = Path("output/Saurabh_test/value")
 RES.mkdir(parents=True, exist_ok=True)
 
 OUT_TS = RES / "portfolio_timeseries.csv"
@@ -50,7 +50,7 @@ OUT_TOP_MONTHLY = RES / "top_weight_stock_per_month.csv"
 OUT_TICKER_CHART = RES / "monthly_ticker_counts_chart.png"
 OUT_DAILY_CHART = RES / "daily_portfolio_chart.png"
 OUT_METRICS_JSON = RES / "performance_metrics.json"
-OUT_LOWEST_AFTER_12M = RES / "lowest_holdings_after_12m.json"
+OUT_LIQUIDATION_LOG = RES / "monthly_liquidation_log.csv"
 
 # ======================================================================
 # LOADERS
@@ -92,32 +92,43 @@ def get_fundamental_value(df, ticker, column):
     except (ValueError, TypeError):
         return None
 
-def get_fundamental_columns(current_date):
-    year = current_date.year - 2 if current_date.month <= 6 else current_date.year - 1
+def get_fundamental_columns(current_date, year):
     suffix = f"Mar {year % 100:02d}"
     return f"EPS_{suffix}", f"BV_{suffix}", f"Revenue_{suffix}"
 
+
+def get_ranking_multiples(ticker, current_price, current_date, pe_data, pb_data, ps_data):
+    """Get PE/PB/PS multiples using fallback years if the current year data are missing."""
+    start_year = current_date.year - 2 if current_date.month <= 6 else current_date.year - 1
+    eps = bv = revenue = None
+    year = start_year
+    attempts = 0
+
+    while attempts < 3:
+        eps_col, bv_col, revenue_col = get_fundamental_columns(current_date, year)
+        eps = get_fundamental_value(pe_data, ticker, eps_col)
+        bv = get_fundamental_value(pb_data, ticker, bv_col)
+        revenue = get_fundamental_value(ps_data, ticker, revenue_col)
+
+        if any(v is not None and v != 0 for v in [eps, bv, revenue]):
+            break
+
+        year -= 1
+        attempts += 1
+
+    multiples = {
+        "pe": current_price / eps if eps is not None and eps > 0 else None,
+        "pb": current_price / bv if bv is not None and bv > 0 else None,
+        "ps": current_price / revenue if revenue is not None and revenue > 0 else None,
+    }
+    return multiples
+
+
 def get_ranking_score(ticker, current_price, current_date, pe_data, pb_data, ps_data):
-    """Compute PE, PB, PS multiples and return an average expensive score."""
-    eps_col, bv_col, revenue_col = get_fundamental_columns(current_date)
-    eps = get_fundamental_value(pe_data, ticker, eps_col)
-    bv = get_fundamental_value(pb_data, ticker, bv_col)
-    revenue = get_fundamental_value(ps_data, ticker, revenue_col)
-
-    score = 0.0
-    count = 0
-
-    if eps is not None and eps > 0:
-        score += current_price / eps
-        count += 1
-    if bv is not None and bv > 0:
-        score += current_price / bv
-        count += 1
-    if revenue is not None and revenue > 0:
-        score += current_price / revenue
-        count += 1
-
-    return score / count if count > 0 else 0.0
+    """Return a simple average of available PE/PB/PS multiples."""
+    multiples = get_ranking_multiples(ticker, current_price, current_date, pe_data, pb_data, ps_data)
+    values = [v for v in multiples.values() if v is not None]
+    return sum(values) / len(values) if values else 0.0
 
 
 def ticker_avg_buy_cost(lots):
@@ -150,34 +161,76 @@ def should_liquidate_ticker(ticker, lots, current_price, current_month, filter_d
     return not is_in_filter(ticker, current_month, filter_dict, filter_name)
 
 def execute_liquidation(holdings, prices, current_month, filter_dict, current_date,
-                        max_liq_value, pe_data, pb_data, ps_data, filter):
+                        max_liq_value, pe_data, pb_data, ps_data, filter_type=None):
     """Liquidate loss-making tickers until max liquidation value is reached."""
     liquidation_cash = 0.0
     candidates = []
     
-    # Map filter numbers to filter names
+    # Map filter numbers to filter names; None means no filter exclusion
     filter_names = {1: "Momentum", 2: "ROE_ROCE", 3: "Filter_2_50%"}
-    filter_name = filter_names.get(filter, "Momentum")
+    filter_name = filter_names.get(filter_type)
+    
+    # Diagnostic counters
+    total_holdings = len(holdings)
+    loss_count = 0
+    filter_excluded = 0
+    holding_period_short = 0
+    no_fundamentals = 0
 
     for ticker, lots in holdings.items():
         current_price = get_price(prices, ticker, current_date)
         
         # Check loss only once per ticker
-        if not should_liquidate_ticker(ticker, lots, current_price, current_month, filter_dict, filter_name):
-            continue
-            
+        if filter_name is not None:
+            if not should_liquidate_ticker(ticker, lots, current_price, current_month, filter_dict, filter_name):
+                if is_ticker_in_loss(lots, current_price):
+                    filter_excluded += 1
+                continue
+        else:
+            # if not is_ticker_in_loss(lots, current_price):
+            #     continue
+            # loss_count += 1
+            # Additional check for final liquidation: holding period > 1 year
+            oldest_buy_date = min(lot["buy_date"] for lot in lots)
+            if (current_date - oldest_buy_date).days <= 365:
+                holding_period_short += 1
+                continue
+
         total_qty = sum(lot["qty"] for lot in lots)
         if total_qty <= 0 or current_price is None:
             continue
 
+        multiples = get_ranking_multiples(ticker, current_price, current_date, pe_data, pb_data, ps_data)
+        # Check if we have any fundamentals data
+        if not any(multiples.values()):
+            no_fundamentals += 1
+            continue
+            
         candidates.append({
             "ticker": ticker,
             "lots": lots,
             "current_price": current_price,
             "total_qty": total_qty,
             "total_value": total_qty * current_price,
-            "ranking_score": get_ranking_score(ticker, current_price, current_date, pe_data, pb_data, ps_data)
+            "multiples": multiples
         })
+
+    # Compute normalized average rank per candidate using available multiples
+    def compute_normalized_ranks(candidates, key):
+        valid = [(idx, c["multiples"][key]) for idx, c in enumerate(candidates) if c["multiples"].get(key) is not None]
+        if not valid:
+            return {}
+        sorted_valid = sorted(valid, key=lambda x: x[1])
+        n = len(sorted_valid)
+        return {idx: (rank + 1) / n for rank, (idx, _) in enumerate(sorted_valid)}
+
+    pe_ranks = compute_normalized_ranks(candidates, "pe")
+    pb_ranks = compute_normalized_ranks(candidates, "pb")
+    ps_ranks = compute_normalized_ranks(candidates, "ps")
+
+    for idx, candidate in enumerate(candidates):
+        ranks = [r for r in [pe_ranks.get(idx), pb_ranks.get(idx), ps_ranks.get(idx)] if r is not None]
+        candidate["ranking_score"] = sum(ranks) / len(ranks) if ranks else 0.0
 
     candidates.sort(key=lambda x: (-x["ranking_score"], x["ticker"]))
 
@@ -209,7 +262,14 @@ def execute_liquidation(holdings, prices, current_month, filter_dict, current_da
             liquidation_cash += remaining_target
             break
 
-    return liquidation_cash, {}
+    return liquidation_cash, {
+        "total_holdings": total_holdings,
+        "candidates_found": len(candidates),
+        "loss_count": loss_count,
+        "filter_excluded": filter_excluded,
+        "holding_period_short": holding_period_short,
+        "no_fundamentals": no_fundamentals
+    }
 
 
 def month_iter(start, end):
@@ -256,6 +316,7 @@ def tracker(prices, filter_dict, months):
     holdings_rows = []
     ticker_counts = []
     top_weight_rows = []
+    liquidation_log = []  # New list to store liquidation details
 
     for i, month in enumerate(months):
         invest_day = first_trading_day(cal, month)
@@ -285,23 +346,164 @@ def tracker(prices, filter_dict, months):
 
         # -------- LIQUIDATE LOSS-MAKING STOCKS NOT IN FILTER 1 --------
         if bank_balance == 0 or i >= 12:
-            liquidation_cash_filter1, _ = execute_liquidation(
+            # Analyze holdings for comprehensive logging
+            total_holdings = len(holdings)
+            loss_stocks = []
+            protected_stocks = []
+            eligible_stocks = []
+            
+            for ticker, lots in holdings.items():
+                current_price = get_price(prices, ticker, invest_day)
+                if is_ticker_in_loss(lots, current_price):
+                    loss_stocks.append(ticker)
+                    # Check if protected by any filter
+                    protected = False
+                    for filter_name in ["Momentum", "ROE_ROCE", "Filter_2_50%"]:
+                        if is_in_filter(ticker, month, filter_dict, filter_name):
+                            protected_stocks.append((ticker, filter_name))
+                            protected = True
+                            break
+                    if not protected:
+                        eligible_stocks.append(ticker)
+            
+            # Initialize monthly liquidation record
+            monthly_liq = {
+                "Month": month,
+                "Date": str(invest_day),
+                "Max_Liquidation_Target": round(max_liq_value, 2),
+                "Total_Holdings": total_holdings,
+                "Loss_Stocks_Count": len(loss_stocks),
+                "Protected_Stocks_Count": len(protected_stocks),
+                "Eligible_Stocks_Count": len(eligible_stocks),
+                "Filter1_Liquidated": 0.0,
+                "Filter1_Reason": "",
+                "Filter2_Liquidated": 0.0,
+                "Filter2_Reason": "",
+                "Filter3_Liquidated": 0.0,
+                "Filter3_Reason": "",
+                "Final_Liquidated": 0.0,
+                "Final_Reason": "",
+                "Profit_Margin_Liquidated": 0.0,
+                "Profit_Margin_Reason": "",
+                "Total_Liquidated": 0.0,
+                "Achievement_Percent": 0.0
+            }
+            
+            liquidation_cash_filter1, info1 = execute_liquidation(
                 holdings, prices, month, filter_dict, invest_day, max_liq_value,
-                pe_data, pb_data, ps_data, filter = 1
+                pe_data, pb_data, ps_data, filter_type=1
             )
             sell_cash += liquidation_cash_filter1
-            if(sell_cash<max_liq_value):
-                liquidation_cash_filter2, _ = execute_liquidation(
+            monthly_liq["Filter1_Liquidated"] = round(liquidation_cash_filter1, 2)
+            if liquidation_cash_filter1 == 0:
+                if info1["filter_excluded"] > 0:
+                    monthly_liq["Filter1_Reason"] = f"{info1['filter_excluded']} loss-making stocks protected by Momentum filter"
+                elif len(loss_stocks) == 0:
+                    monthly_liq["Filter1_Reason"] = "No loss-making stocks in portfolio"
+                else:
+                    monthly_liq["Filter1_Reason"] = "No eligible stocks found after ranking"
+            
+            if sell_cash < max_liq_value:
+                liquidation_cash_filter2, info2 = execute_liquidation(
                     holdings, prices, month, filter_dict, invest_day, max_liq_value - sell_cash,
-                    pe_data, pb_data, ps_data, filter = 2
+                    pe_data, pb_data, ps_data, filter_type=2
                 )
                 sell_cash += liquidation_cash_filter2
-                if(sell_cash<max_liq_value):
-                    liquidation_cash_filter3, _ = execute_liquidation(
+                monthly_liq["Filter2_Liquidated"] = round(liquidation_cash_filter2, 2)
+                if liquidation_cash_filter2 == 0:
+                    if info2["filter_excluded"] > 0:
+                        monthly_liq["Filter2_Reason"] = f"{info2['filter_excluded']} loss-making stocks protected by ROE_ROCE filter"
+                    elif len(loss_stocks) == 0:
+                        monthly_liq["Filter2_Reason"] = "No loss-making stocks in portfolio"
+                    else:
+                        monthly_liq["Filter2_Reason"] = "No eligible stocks found after ranking"
+                
+                if sell_cash < max_liq_value:
+                    liquidation_cash_filter3, info3 = execute_liquidation(
                         holdings, prices, month, filter_dict, invest_day, max_liq_value - sell_cash,
-                        pe_data, pb_data, ps_data, filter = 3
+                        pe_data, pb_data, ps_data, filter_type=3
                     )
                     sell_cash += liquidation_cash_filter3
+                    monthly_liq["Filter3_Liquidated"] = round(liquidation_cash_filter3, 2)
+                    if liquidation_cash_filter3 == 0:
+                        if info3["filter_excluded"] > 0:
+                            monthly_liq["Filter3_Reason"] = f"{info3['filter_excluded']} loss-making stocks protected by Filter_2_50% filter"
+                        elif len(loss_stocks) == 0:
+                            monthly_liq["Filter3_Reason"] = "No loss-making stocks in portfolio"
+                        else:
+                            monthly_liq["Filter3_Reason"] = "No eligible stocks found after ranking"
+                    
+                    if sell_cash < max_liq_value:
+                        liquidation_cash_all, info_all = execute_liquidation(
+                            holdings, prices, month, filter_dict, invest_day, max_liq_value - sell_cash,
+                            pe_data, pb_data, ps_data, filter_type=None
+                        )
+                        sell_cash += liquidation_cash_all
+                        monthly_liq["Final_Liquidated"] = round(liquidation_cash_all, 2)
+                        if liquidation_cash_all == 0:
+                            reasons = []
+                            if info_all["holding_period_short"] > 0:
+                                reasons.append(f"{info_all['holding_period_short']} stocks <1yr holding")
+                            if info_all["no_fundamentals"] > 0:
+                                reasons.append(f"{info_all['no_fundamentals']} stocks no fundamentals data")
+                            if len(loss_stocks) == 0:
+                                reasons.append("no loss-making stocks")
+                            if reasons:
+                                monthly_liq["Final_Reason"] = ", ".join(reasons)
+                            else:
+                                monthly_liq["Final_Reason"] = "No eligible stocks found"
+                    
+                    if sell_cash < max_liq_value:
+                        remaining_target = max_liq_value - sell_cash
+                        candidates = []
+                        for ticker, lots in holdings.items():
+                            current_price = get_price(prices, ticker, invest_day)
+                            if current_price is None:
+                                continue
+                            avg_cost = ticker_avg_buy_cost(lots)
+                            if avg_cost is None or avg_cost == 0:
+                                continue
+                            profit_margin = (current_price / avg_cost) - 1
+                            total_qty = sum(lot["qty"] for lot in lots)
+                            total_value = total_qty * current_price
+                            candidates.append({
+                                "ticker": ticker,
+                                "lots": lots,
+                                "profit_margin": profit_margin,
+                                "total_value": total_value,
+                                "current_price": current_price,
+                                "total_qty": total_qty
+                            })
+                        candidates.sort(key=lambda x: x["profit_margin"])
+                        liquidation_cash_pm = 0.0
+                        for candidate in candidates:
+                            if remaining_target <= 0:
+                                break
+                            ticker = candidate["ticker"]
+                            total_value = candidate["total_value"]
+                            current_price = candidate["current_price"]
+                            total_qty = candidate["total_qty"]
+                            if total_value <= remaining_target:
+                                holdings.pop(ticker, None)
+                                liquidation_cash_pm += total_value
+                                remaining_target -= total_value
+                            else:
+                                qty_to_sell = remaining_target / current_price
+                                sell_ratio = qty_to_sell / total_qty
+                                for lot in list(holdings[ticker]):
+                                    sold_qty = lot["qty"] * sell_ratio
+                                    lot["qty"] -= sold_qty
+                                holdings[ticker] = [lot for lot in holdings[ticker] if lot["qty"] > 1e-9]
+                                liquidation_cash_pm += remaining_target
+                                remaining_target = 0
+                        sell_cash += liquidation_cash_pm
+                        monthly_liq["Profit_Margin_Liquidated"] = round(liquidation_cash_pm, 2)
+                        if liquidation_cash_pm == 0:
+                            monthly_liq["Profit_Margin_Reason"] = "No holdings available or target already met"
+            
+            monthly_liq["Total_Liquidated"] = round(sell_cash, 2)
+            monthly_liq["Achievement_Percent"] = round((sell_cash / max_liq_value) * 100, 1) if max_liq_value > 0 else 0.0
+            liquidation_log.append(monthly_liq)
 
         # -------- INVEST --------
         invest_amt = MONTHLY_INVEST if i < 12 else sell_cash
@@ -377,7 +579,7 @@ def tracker(prices, filter_dict, months):
             "Selected_Tickers": len(selected)
         })
 
-    return monthly_records, holdings_rows, ticker_counts, top_weight_rows
+    return monthly_records, holdings_rows, ticker_counts, top_weight_rows, liquidation_log
 
 # ======================================================================
 # DAILY MARK-TO-MARKET
@@ -506,6 +708,29 @@ def compute_metrics(daily_df):
     roll_max = daily_df["Equity"].cummax()
     drawdown = daily_df["Equity"] / roll_max - 1
     max_drawdown = abs(drawdown.min()) * 100
+    
+    # Find max drawdown period details
+    max_dd_idx = drawdown.idxmin()
+    max_dd_date = daily_df.loc[max_dd_idx, "Date"]
+    max_dd_value = daily_df.loc[max_dd_idx, "Equity"]
+    
+    # Find the start of max drawdown (peak before trough)
+    peak_value = roll_max.iloc[max_dd_idx]
+    peak_idx = daily_df[daily_df["Equity"] == peak_value].index[0] if (daily_df["Equity"] == peak_value).any() else max_dd_idx
+    dd_start_date = daily_df.loc[peak_idx, "Date"]
+    
+    # Find recovery date (when equity returns to peak level after drawdown)
+    recovery_date = None
+    for idx in range(max_dd_idx + 1, len(daily_df)):
+        if daily_df.loc[idx, "Equity"] >= peak_value:
+            recovery_date = daily_df.loc[idx, "Date"]
+            break
+    
+    # Calculate max drawdown period
+    if recovery_date:
+        dd_period = (recovery_date - dd_start_date).days
+    else:
+        dd_period = (daily_df["Date"].iloc[-1] - dd_start_date).days
     profits = simple_ret[simple_ret > 0]
     losses = simple_ret[simple_ret < 0]
     accuracy = len(profits) / len(simple_ret) if len(simple_ret) > 0 else 0
@@ -529,6 +754,10 @@ def compute_metrics(daily_df):
         "Annualized Volatility (%)": round(volatility, 2),
         "Downside Volatility (%)": round(downside_vol, 2),
         "Max Drawdown (%)": round(max_drawdown, 2),
+        "Max Drawdown Start Date": str(dd_start_date.date()),
+        "Max Drawdown Trough Date": str(max_dd_date.date()),
+        "Max Drawdown Recovery Date": str(recovery_date.date()) if recovery_date else "Not recovered yet",
+        "Max Drawdown Period (Days)": dd_period,
         "Calmar Ratio": round(calmar, 2),
         "Sharpe Ratio": round(sharpe, 2),
         "Sortino Ratio": round(sortino, 2),
@@ -606,7 +835,7 @@ def main():
     filters = load_filter()
     months = month_iter(START_MONTH, END_DATE)
 
-    records, hold_rows, ticker_counts, top_weight_rows = tracker(
+    records, hold_rows, ticker_counts, top_weight_rows, liquidation_log = tracker(
         prices, filters, months
     )
 
@@ -614,6 +843,7 @@ def main():
     pd.DataFrame(hold_rows).to_csv(OUT_HOLD, index=False)
     pd.DataFrame(ticker_counts).to_csv(OUT_TICKER_COUNTS, index=False)
     pd.DataFrame(top_weight_rows).to_csv(OUT_TOP_MONTHLY, index=False)
+    pd.DataFrame(liquidation_log).to_csv(OUT_LIQUIDATION_LOG, index=False)
 
     with open(OUT_JSON, "w") as f:
         json.dump(records, f, indent=2)
